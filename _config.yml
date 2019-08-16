@@ -24,22 +24,16 @@ description: Probability, Statistics, and Machine Learning
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  Syllabus: "docs/DATA2020-Syllabus.pdf"
+  Syllabus: "docs/data1010syllabus.pdf"
   Assignments: "assignments"
-  Projects: 
-    - Midterm Project: "docs/projects/midterm" 
-    - Final Project: "docs/projects/final"
   Schedule: "schedule"
-  R Resources:
-    - Intro to R: "http://statseducation.com/Introduction-to-R/"
-    - R for Data Science: "http://r4ds.had.co.nz/"
-    - Google's R Style Guide: "https://google.github.io/styleguide/Rguide.xml"
-    - Intro to R Markdown: "http://rmarkdown.rstudio.com/lesson-1.html"
-#  Author's home: "http://deanattali.com"
+  Resources:
+    - Data Gymnasia: "https://mathigon.org/data-gymnasia"
+    - Python Data Science Handbook: "https://jakevdp.github.io/PythonDataScienceHandbook/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the #navbar
-# avatar: "/img/avatar-icon.png"
+avatar: "/img/dsi-logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -50,7 +44,7 @@ navbar-links:
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-navbar-col: "#FF99CC"
+# navbar-col: "#FF99CC"
 # navbar-img: "/img/bgimage.png"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
