@@ -3,10 +3,7 @@
 
 ## Download
 
-You can download Julia from http://julialang.org/downloads. I
-recommend Julia 1.0.1 for this class. Also, use the standard download
-link you see on that page, rather than JuliaPro or any other
-distribution.
+If you want to set up Julia on your machine, download the version from [https://julialang.org/downloads](http://julialang.org/downloads). Also, use the standard download link you see on that page, rather than JuliaPro or the conda distribution.
 
 ## Julia and Python
 
@@ -43,6 +40,8 @@ paths below with what you found in Steps 1 and 2.
 
 ```julia
 using Pkg
+Pkg.add("PyCall")
+Pkg.add("IJulia")
 ENV["JUPYTER"] = "/Users/sswatson/anaconda3/bin/jupyter"
 Pkg.build("IJulia")
 ENV["PYTHON"] = "/Users/sswatson/anaconda3/bin/python"
@@ -83,11 +82,6 @@ tips:
    page for stuff you have to do for Julia to work. One of these is
    the Windows Management Framework, which is necessary for Julia to
    be able to download binaries for its packages. 
-
-## Getting started
-
-You should complete the _Programming in Julia_ edX module to get
-oriented.
 
 ## startup.jl
 
