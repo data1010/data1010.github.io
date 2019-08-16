@@ -4,10 +4,8 @@ title: Schedule
 subtitle: 
 ---
 
-
 <div class="container">
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrfnsulyzPAugU1zIk1jtX1sypSGEhJ08i7WehhVI8pERSaUX_VDIeZ6SOqfHko88Gnyscmo9zWprA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="600" width="800"></iframe>
-
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrCs3KP3ItEqbEts?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 </div>
 
 
