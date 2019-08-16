@@ -1,5 +1,7 @@
-
-# Julia setup
+---
+layout: page
+title: Julia setup
+---
 
 ## Download
 

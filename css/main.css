@@ -692,7 +692,7 @@ td.gutter pre {
   background-color: #fff;
 }
 .highlight > pre {
-  padding: 3px;
+  padding: 12px;
 }
 td.code pre {
   border-width: 0 0 0 2px;
