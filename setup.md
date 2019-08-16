@@ -59,6 +59,8 @@ Pkg.add("Colors")
 ```
 If you don't install these now, you can install them later. 
 
+---
+
 ## Troubleshooting
 
 If you have any trouble with the above installation, here are some
@@ -84,6 +86,8 @@ tips:
    page for stuff you have to do for Julia to work. One of these is
    the Windows Management Framework, which is necessary for Julia to
    be able to download binaries for its packages. 
+
+---
 
 ## startup.jl
 
