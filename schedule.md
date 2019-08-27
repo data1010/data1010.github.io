@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Schedule
-subtitle: 
 ---
 
 

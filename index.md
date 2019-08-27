@@ -24,12 +24,10 @@ In this course we will introduce the mathematical methods of data science throug
 
 * [Linear algebra overview](https://www.youtube.com/watch?v=pz0WmaOU9Xg)
 * [Eigenvectors and SVD](https://www.youtube.com/watch?v=EMpJ_8hM94c)
-* [Determinants and matrix differentiation](https://www.youtube.com/watch?v=E9x\
-BvB0wxWI)
+* [Determinants and matrix differentiation](https://www.youtube.com/watch?v=E9xBvB0wxWI)
 * [Machine arithmetic](https://www.youtube.com/watch?v=OLSASJ3b24c)
 * [Numerical error](https://www.youtube.com/watch?v=BJZrpi4vZWg)
-* [PRNGs, autodiff, and gradient descent](https://www.youtube.com/watch?v=qM9Em\
-mUtX_c)
+* [PRNGs, autodiff, and gradient descent](https://www.youtube.com/watch?v=qM9EmmUtX_c)
 * [Probability models](https://www.youtube.com/watch?v=zEwXXE4fWRc)
 * [Conditional probability](https://www.youtube.com/watch?v=JGeTcRfKgBo)
 
@@ -37,4 +35,6 @@ mUtX_c)
 
 ### Links
 
-* [Julia setup](setup)
+* [JupyterHub](jupyterhub)
+* [Local Julia setup](setup)
+* [Submitting homework](hwsubmit)
