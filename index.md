@@ -16,7 +16,7 @@ Email: sswatson@brown.edu
 
 ### Course Overview
 
-In this course we will introduce the mathematical methods of data science through a combination of computational exploration, visualization, and theory. You will learn scientific computing basics, topics in numerical linear algebra, mathematical probability (probability spaces, expectation, conditioning, common distributions, law of large numbers and the central limit theorem), statistics (point estimation, confidence intervals, hypothesis testing, maximum likelihood estimation, density estimation, bootstrapping, and cross-validation), and machine learning (regression, classification, and dimensionality reduction, including neural networks, principal component analysis, and unsupervised learning).
+In this course we will introduce the mathematical methods of data science through a combination of computational exploration, visualization, and theory. We will learn scientific computing basics, topics in numerical linear algebra, mathematical probability (probability spaces, expectation, conditioning, common distributions, law of large numbers and the central limit theorem), statistics (point estimation, confidence intervals, hypothesis testing, maximum likelihood estimation, density estimation, bootstrapping, and cross-validation), and machine learning (regression, classification, and dimensionality reduction, including neural networks, principal component analysis, unsupervised learning, Bayesian methods, and garphical models).
 
 ---
 
