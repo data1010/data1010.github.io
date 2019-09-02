@@ -12,11 +12,11 @@ The former submission will have all of the files relevant to generate your work,
 
 ## Jupyter notebooks
 
-You will write your submission in a Jupyter notebook. 
+We'll be writing up our homework submissions in a Jupyter notebook. 
 
 * Include text and math expressions using Jupyter's markdown cells (and you can generate TeX code for math expressions using a combination of [Mathpix](https://mathpix.com) and [Symbolab](https://www.symbolab.com), or using [MathKey](https://mathkey-app.com) for iOS). 
 * Generate figures using code by executing code in the Jupyter notebook. 
-* For non-programatically generated figures (like geometric sketches or flowcharts), we recommend using [Ipe](http://ipe.otfried.org). [Here's](docs/videos/ipe-example.mp4) a video demonstrating Ipe's basic functionality. To include a figure in a Jupyter notebook, put the figure file in the same directory as the notebook and use a Markdown cell with either Markdown (`![alt text](figure-file-name.png)`) or HTML code for figures `<img src="figure-file-name.png" alt="alt text" width="120mm">`. The latter approach allows you to control the size of the figure. You can also make it float to the right using `<img style="float: right;" src="whatever.jpg">`, which can be helpful for achieving a better use of space when an image is not very wide
+* For non-programatically generated figures (like geometric sketches or flowcharts), we recommend using [Ipe](http://ipe.otfried.org). [Here's](docs/videos/ipe-example.mp4) a video demonstrating Ipe's basic functionality. To include a figure in a Jupyter notebook, save the figure as a PDF and drag it from your computer to the Jupyter Lab file viewer in the same directory as the notebook. Then use a Markdown cell with the Markdown image syntax (`![alt text](figure-file-name.pdf)`). 
 
 To export your notebook to PDF, put a Markdown cell containing the text `\newpage` after each problem (to ensure that each problem starts on a new page). Then go to "File > Export Notebook As... > Export Notebook to PDF". Upload the resulting PDF file to Gradescope and map the problem numbers to the pages of your submission.
 
