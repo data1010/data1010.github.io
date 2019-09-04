@@ -3,5 +3,4 @@ layout: page
 title: Assignments
 ---
 
-  *  [**Homework 1**](/docs/assignments/pset1.html)  
-  Due September 11, 2019. 
+  *  [**Homework 0**](/docs/assignments/hw0) Due 06 September 2019
