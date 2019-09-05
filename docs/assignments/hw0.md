@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Assignments
+title: Homework 0
 ---
 
 1. [Enter your GitHub ID here](https://airtable.com/shrC6aW5Pxfra4pL3)
