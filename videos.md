@@ -3,7 +3,12 @@ layout: page
 title: DATA 1010
 ---
 
-### Videos
+### Class exercise videos
+
+* [Day 1](https://youtu.be/nfVHIY_IMF0). Programming in Julia (04 September 2019)
+* 
+
+### Topic Videos
 
 * [Linear algebra overview](https://www.youtube.com/watch?v=pz0WmaOU9Xg)
 * [Eigenvectors and SVD](https://www.youtube.com/watch?v=EMpJ_8hM94c)
