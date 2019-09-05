@@ -13,4 +13,4 @@ title: Assignments
   - https://docs.ccv.brown.edu/jupyterhub/git-basics/git-clone
 7. Periodically commit changes to GitHub:
   - https://docs.ccv.brown.edu/jupyterhub/git-basics/saving-and-uploading-git-commit-push
-9. Generate a PDF and submit it to [Gradescope](https://www.gradescope.com/courses/56764/) by the deadline (23:00 Friday 06 September). See [this page](hwsubmit) for more details (in particular, make sure to put `\newline` in a Markdown cell after each problem so that the mapping from pages to problem numbers is a function).
+9. Generate a PDF and submit it to [Gradescope](https://www.gradescope.com/courses/56764/) by the deadline (23:00 Friday 06 September). See [this page](/hwsubmit) for more details (in particular, make sure to put `\newline` in a Markdown cell after each problem so that the mapping from pages to problem numbers is a function).
