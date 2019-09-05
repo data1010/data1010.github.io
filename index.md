@@ -23,6 +23,5 @@ In this course we will introduce the mathematical methods of data science throug
 ### Links
 
 * [JupyterHub](jupyterhub)
-* [Local Julia setup](setup)
+* [Local Julia setup](setup) (optional)
 * [Submitting homework](hwsubmit)
-* [Topic videos](videos)
