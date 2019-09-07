@@ -6,7 +6,7 @@ title: DATA 1010
 ### Class exercise videos
 
 * [Day 1](https://youtu.be/nfVHIY_IMF0). Programming in Julia (04 September 2019)
-* 
+* [Day 2](https://youtu.be/Dm7ebJmrBl0). Linear Algebra Practice (06 September 2019)
 
 ### Topic Videos
 
