@@ -12,6 +12,27 @@ use-site-title: true
 **Instructor: Samuel S. Watson**  
 Email: sswatson@brown.edu
 
+**TAs**: 
+
+* Dhananjay Bhaskar
+* Mickey Li
+* Shiyun Zou
+* Hao Xi
+* Huakai Liu
+* Xiaotong Fu
+* Soryan Kumar
+* Kyle Qian
+
+**Office Hours** (preliminary)
+
+* Sam: MW 11 A - 12 PM
+* Kyle: M 9-11 AM
+* Mickey: M 4-6 PM
+* Shiyun: T 5-7 PM
+* Huakai: W 5-7 PM
+* Jay: WF 3-4 PM
+* Soryan: Th 5-7 PM
+
 ---
 
 ### Course Overview
