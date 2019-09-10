@@ -7,7 +7,7 @@ use-site-title: true
 
 ### Overview
 
-Welcome to the DATA 1010 homepage! Class problem sets, weekly assignments, and other resources are available from the menu bar above. 
+Welcome to the DATA 1010 homepage! In this course, we develop mathematical ideas for data science in a visual and computation-oriented way. Class problem sets, weekly assignments, and other resources are available from the menu bar above.
 
 ### Course Description
 
