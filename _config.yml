@@ -27,6 +27,7 @@ navbar-links:
   Assignments: "assignments"
   Classes: 
     - Schedule: "schedule"
+    - Notebooks: "https://github.com/data1010/problem-sets"
     - Videos: "videos"
   Resources:
     - Data Gymnasia: "https://mathigon.org/data-gymnasia"
