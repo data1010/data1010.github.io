@@ -25,12 +25,12 @@ Email: sswatson@brown.edu
 
 **Office Hours** (preliminary)
 
-* Sam: MW 11 A - 12 PM
-* Kyle: M 9-11 AM
-* Mickey: M 4-6 PM
-* Shiyun: T 5-7 PM
-* Jay: WF 3-4 PM
-* Soryan: Th 5-7 PM
+* Sam: MW 11 AM - 12 PM
+* Kyle: M 9 AM - 11 AM
+* Mickey: M 4 PM - 6 PM
+* Shiyun: F 10 AM - 12 PM
+* Jay: WF 3 PM - 4 PM
+* Soryan: Th 5 PM - 7 PM
 
 ---
 
