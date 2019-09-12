@@ -8,6 +8,7 @@ title: DATA 1010
 * [Day 1](https://youtu.be/nfVHIY_IMF0). Programming in Julia (04 September 2019)
 * [Day 2](https://youtu.be/Dm7ebJmrBl0). Linear Algebra Practice (06 September 2019)
 * [Day 3](https://youtu.be/nhK8-CZw0bM). Eigenvectors and eigenvalues (09 September 2019). See [this video](https://www.youtube.com/watch?v=hNWP2HgqKZc) for the last question.
+* [Day 4](https://youtu.be/EycEXezPLKo). Multivariable calculus review: optimization and Taylor series.
 
 ### Topic Videos
 
