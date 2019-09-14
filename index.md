@@ -42,7 +42,7 @@ Email: sswatson@brown.edu
 
 ### Self-study
 
-For those interested in studying this material without being enrolled in the course, I recommend the following workflow: begin with the [Data Gymnasia](https://mathigon.org/data-gymnasia) courses. Then access the [problem sets](https://github.com/data1010-problem-sets) for each class day and work through them on your own. You can find solutions videos on the [videos page](https://data1010.github.io/videos/). The weekly [problem sets](https://github.com/data1010-problem-sets) are also available, and practice exams will be posted as well.
+For those interested in studying this material without being enrolled in the course, I recommend the following workflow: begin with the [Data Gymnasia](https://mathigon.org/data-gymnasia) courses. Then work through the [in-class exercise Jupyter notebooks](class) and watch the follow-up videos. The weekly [problem sets](https://github.com/data1010-problem-sets) are also available, and practice exams will be posted as well.
 
 ---
 
