@@ -6,7 +6,7 @@ title: Notebooks and videos
 <table>
   <thead>
     <tr>
-      <th style="text-align: center; width:100px">Date</th>
+      <th style="text-align: center; width:80px">Date</th>
       <th style="text-align: center">Topic</th>
       <th style="text-align: center; width:125px">Advance reading</th>
       <th style="text-align: center">Class Notebook</th>
