@@ -52,16 +52,22 @@ title: Notebooks and videos
     <tr>
       <td style="text-align: center">09-16</td>
       <td style="text-align: center">Machine arithmetic, numerical error</td>
-      <td style="text-align: center"><a href="https://mathigon.org/course/numerical-computing">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=OLSASJ3b24c">[video]</a></td>
-      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/numerical-computing">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=OLSASJ3b24c">[video]</a>&nbsp;<a href="https://www.youtube.com/watch?v=BJZrpi4vZWg"></a></td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-16">[notebook]</a></td>
       <td style="text-align: center"> </td>
     </tr>
+    <tr>
+      <td style="text-align: center">09-19</td>
+      <td style="text-align: center">Pseudorandom numbers, Autodiff, and Gradient descent</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/numerical-computing/pseudorandom-number-generation">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=qM9EmmUtX_c">[video]</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+
   </tbody>
 </table>
 
 ### Future Topic Videos
 
-* [Numerical error](https://www.youtube.com/watch?v=BJZrpi4vZWg)
-* [PRNGs, autodiff, and gradient descent](https://www.youtube.com/watch?v=qM9EmmUtX_c)
 * [Probability models](https://www.youtube.com/watch?v=zEwXXE4fWRc)
 * [Conditional probability](https://www.youtube.com/watch?v=JGeTcRfKgBo)
