@@ -3,26 +3,65 @@ layout: page
 title: Notebooks and videos
 ---
 
-### Class Notebooks and Videos
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Date</th>
+      <th style="text-align: center">Topic</th>
+      <th style="text-align: center">Advance reading</th>
+      <th style="text-align: center">Class Notebook</th>
+      <th style="text-align: center">Follow-up Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">09-04</td>
+      <td style="text-align: center">Programming in Julia</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/programming-in-julia">DG Julia</a></td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-04">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/nfVHIY_IMF0">[video]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">09-06</td>
+      <td style="text-align: center">Linear Algebra Practice</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/linear-algebra">DG LinAlg</a> <a href="https://www.youtube.com/watch?v=pz0WmaOU9Xg">LinAlg video</a></td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-06">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/Dm7ebJmrBl0">[video]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">09-09</td>
+      <td style="text-align: center">Eigenvectors and Eigenvalues</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/linear-algebra">DG LinAlg</a><a href="https://www.youtube.com/watch?v=EMpJ_8hM94c">Eig video</a></td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-09">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/nhK8-CZw0bM">[video]</a> <a href="https://youtu.be/hNWP2HgqKZc">[video]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">09-11</td>
+      <td style="text-align: center">Multivariable Calculus Review</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/multivariable-calculus">DG Multi</a></td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-11">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/EycEXezPLKo">[video]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">09-13</td>
+      <td style="text-align: center">Matrix differentiation</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/multivariable-calculus">DG Multi</a><a href="https://www.youtube.com/watch?v=E9xBvB0wxWI">MatDiff Video</a></td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-13">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/T8w4BHUCiRo">[video]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">09-16</td>
+      <td style="text-align: center">Machine arithmetic, numerical error</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/numerical-computing">DG Numerical</a><a href="https://www.youtube.com/watch?v=OLSASJ3b24c">MacArith video</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+  </tbody>
+</table>
 
-|  Date |                         Topic       |                                                Advance reading |                                             Class Notebook             |                       Follow-up Video |
-|:-----:|:-----------------------------------:|:--------------------------------------------------------------:|:----------------------------------------------------------------------:|:-------------------------------------:|
-| 09-04 |          Programming in Julia       |   [DG Julia](https://mathigon.org/course/programming-in-julia) | [notebook](https://github.com/data1010/problem-sets/tree/master/09-04) | [video](https://youtu.be/nfVHIY_IMF0) |
-| 09-06 |       Linear Algebra Practice       |        [DG LinAlg](https://mathigon.org/course/linear-algebra) | [notebook](https://github.com/data1010/problem-sets/tree/master/09-06) | [video](https://youtu.be/Dm7ebJmrBl0) |
-| 09-09 |  Eigenvectors and Eigenvalues       |        [DG LinAlg](https://mathigon.org/course/linear-algebra) | [notebook](https://github.com/data1010/problem-sets/tree/master/09-09) | [video](https://youtu.be/nhK8-CZw0bM) [video](https://youtu.be/hNWP2HgqKZc)|
-| 09-11 | Multivariable Calculus Review       | [DG Multi](https://mathigon.org/course/multivariable-calculus) | [notebook](https://github.com/data1010/problem-sets/tree/master/09-11) | [video](https://youtu.be/EycEXezPLKo) |
-| 09-13 |        Matrix differentiation       | [DG Multi](https://mathigon.org/course/multivariable-calculus) | [notebook](https://github.com/data1010/problem-sets/tree/master/09-13) | [video](https://youtu.be/T8w4BHUCiRo) |
-| 09-16 | Machine arithmetic, numerical error | [DG Numerical](https://mathigon.org/course/numerical-computing)|                                                                        |                                       |
+### Future Topic Videos
 
-
-### Topic Videos
-
-* [Linear algebra overview](https://www.youtube.com/watch?v=pz0WmaOU9Xg)
-* [Eigenvectors and SVD](https://www.youtube.com/watch?v=EMpJ_8hM94c)
-* [Determinants and matrix differentiation](https://www.youtube.com/watch?v=E9xBvB0wxWI)
-* [Machine arithmetic](https://www.youtube.com/watch?v=OLSASJ3b24c)
 * [Numerical error](https://www.youtube.com/watch?v=BJZrpi4vZWg)
 * [PRNGs, autodiff, and gradient descent](https://www.youtube.com/watch?v=qM9EmmUtX_c)
 * [Probability models](https://www.youtube.com/watch?v=zEwXXE4fWRc)
 * [Conditional probability](https://www.youtube.com/watch?v=JGeTcRfKgBo)
-
