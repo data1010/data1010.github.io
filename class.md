@@ -8,7 +8,7 @@ title: Notebooks and videos
     <tr>
       <th style="text-align: center; width:100px">Date</th>
       <th style="text-align: center">Topic</th>
-      <th style="text-align: center">Advance reading</th>
+      <th style="text-align: center; width:200px">Advance reading</th>
       <th style="text-align: center">Class Notebook</th>
       <th style="text-align: center; width:150px">Follow-up Video</th>
     </tr>
