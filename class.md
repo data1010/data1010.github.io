@@ -8,7 +8,7 @@ title: Notebooks and videos
     <tr>
       <th style="text-align: center; width:100px">Date</th>
       <th style="text-align: center">Topic</th>
-      <th style="text-align: center; width:175px">Advance reading</th>
+      <th style="text-align: center; width:125px">Advance reading</th>
       <th style="text-align: center">Class Notebook</th>
       <th style="text-align: center; width:150px">Follow-up Video</th>
     </tr>
@@ -24,7 +24,7 @@ title: Notebooks and videos
     <tr>
       <td style="text-align: center">09-06</td>
       <td style="text-align: center">Linear Algebra Practice</td>
-      <td style="text-align: center"><a href="https://mathigon.org/course/linear-algebra">[DG]</a> &nbsp; <a href="https://www.youtube.com/watch?v=pz0WmaOU9Xg">[video]</a></td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/linear-algebra">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=pz0WmaOU9Xg">[video]</a></td>
       <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-06">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/Dm7ebJmrBl0">[video]</a></td>
     </tr>
