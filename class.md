@@ -10,7 +10,7 @@ title: Notebooks and videos
       <th style="text-align: center">Topic</th>
       <th style="text-align: center">Advance reading</th>
       <th style="text-align: center">Class Notebook</th>
-      <th style="text-align: center">Follow-up Video</th>
+      <th style="text-align: center; width:150px">Follow-up Video</th>
     </tr>
   </thead>
   <tbody>
