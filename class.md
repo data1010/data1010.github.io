@@ -31,7 +31,7 @@ title: Notebooks and videos
     <tr>
       <td style="text-align: center">09-09</td>
       <td style="text-align: center">Eigenvectors and Eigenvalues</td>
-      <td style="text-align: center"><a href="https://mathigon.org/course/linear-algebra">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=EMpJ_8hM94c">[video]</a></td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/linear-algebra/eigenanalysis">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=EMpJ_8hM94c">[video]</a></td>
       <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-09">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/nhK8-CZw0bM">[video]</a> <a href="https://youtu.be/hNWP2HgqKZc">[video]</a></td>
     </tr>
