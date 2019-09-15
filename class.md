@@ -57,7 +57,7 @@ title: Notebooks and videos
       <td style="text-align: center"> </td>
     </tr>
     <tr>
-      <td style="text-align: center">09-19</td>
+      <td style="text-align: center">09-18</td>
       <td style="text-align: center">Pseudorandom numbers, Autodiff, and Gradient descent</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/numerical-computing/pseudorandom-number-generation">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=qM9EmmUtX_c">[video]</a></td>
       <td style="text-align: center"> </td>
