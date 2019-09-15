@@ -24,10 +24,12 @@ description: Probability, Statistics, and Machine Learning
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  Assignments: "assignments"
-  Classes: 
-    - Schedule: "schedule"
+  Class: 
     - Notebooks and Videos: "class"
+    - Schedule: "schedule"
+  Homework:
+    - Homework: "homework"
+    - Office Hours: "officehours"
   Resources:
     - Data Gymnasia: "https://mathigon.org/data-gymnasia"
     - Gradescope: "https://www.gradescope.com/courses/56764"
@@ -35,6 +37,7 @@ navbar-links:
     - Piazza: "https://piazza.com/class/jzh53hgnml03fu"
     - JupyterHub: "https://data.jupyter.brown.edu"
     - CoCalc: "https://cocalc.com"
+    - Tips: "tips"
   Reference:
     - Course cheatsheet: "docs/cheatsheets/data1010-cheatsheet.pdf"
     - Julia-Python-R cheatsheet: "docs/cheatsheets/jpr-cheatsheet.pdf"

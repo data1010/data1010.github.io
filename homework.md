@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Assignments
+title: Homework
 ---
 
 Note that the homework notebooks are also available publicly [here](https://github.com/data1010/problem-sets).
