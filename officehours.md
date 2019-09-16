@@ -21,6 +21,7 @@ Email: sswatson@brown.edu
 * Kyle: M 9 AM - 11 AM
 * Mickey: M 4 PM - 6 PM
 * Jay: WF 3 PM - 4 PM
-* Xiaotong W 5 PM - 7 PM
+* Xiaotong: W 5 PM - 7 PM
+* Huakai: W 5 PM - 7 PM
 * Soryan: Th 5 PM - 7 PM
 * Shiyun: F 10 AM - 12 PM
