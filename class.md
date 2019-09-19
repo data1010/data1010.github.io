@@ -61,7 +61,7 @@ title: Notebooks and videos
       <td style="text-align: center">Pseudorandom numbers, Automatic differentiation</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/numerical-computing/pseudorandom-number-generation">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=qM9EmmUtX_c">[video]</a></td>
       <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-18">[notebook]</a></td>
-      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="https://youtu.be/lQVRwkTQPvM">[video]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">09-20</td>
