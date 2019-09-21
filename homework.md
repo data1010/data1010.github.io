@@ -7,11 +7,11 @@ title: Homework
   <thead>
     <tr>
       <th style="text-align: center; width:50px">HW</th>
-      <th style="text-align: center; width:80px">Due Date</th>
+      <th style="text-align: center; width:100px">Due Date</th>
       <th style="text-align: center; width:100px">GitHub Classroom</th>
-      <th style="text-align: center; width:100px">Public GitHub Repo</th>
+      <th style="text-align: center; width:140px">Public GitHub Repository</th>
       <th style="text-align: center; width:80px">PDF Solution</th>
-     <th style="text-align: center; width:120px">Jupyter Notebook Solution</th>
+     <th style="text-align: center; width:140px">Jupyter Notebook Solution</th>
     </tr>
   </thead>
  <tbody>
