@@ -15,4 +15,4 @@ In this course we will introduce the mathematical methods of data science throug
 
 ### Self-study
 
-For those interested in studying this material without being enrolled in the course, I recommend the following workflow: begin with the [Data Gymnasia](https://mathigon.org/data-gymnasia) courses. Then work through the [in-class exercise Jupyter notebooks](class) and watch the follow-up videos. The weekly [problem sets](https://github.com/data1010-problem-sets) are also available, and practice exams will be posted as well.
+For those interested in studying this material without being enrolled in the course, I recommend the following workflow: begin with the [Data Gymnasia](https://mathigon.org/data-gymnasia) courses. Then work through the [in-class exercise Jupyter notebooks](class) and watch the follow-up videos. The weekly [problem sets](https://github.com/data1010/problem-sets) are also available, and practice exams will be posted as well.
