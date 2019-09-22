@@ -49,4 +49,4 @@ title: Homework
    </tr>
   </tbody>
 </table>
-Note that the homework notebooks are also available publicly [here](https://github.com/data1010/problem-sets).
+
