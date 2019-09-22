@@ -70,11 +70,19 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-18">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/amKu-YPYhto">[video]</a></td>
     </tr>
-
+    <tr>
+      <td style="text-align: center">09-23</td>
+      <td style="text-align: center">Probability Models</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-probability/">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=zEwXXE4fWRc">[video]</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">09-25</td>
+      <td style="text-align: center">Bayes' theorem and conditional expectation</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-probability/conditional-probability">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=JGeTcRfKgBo">[video]</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
   </tbody>
 </table>
-
-### Future Topic Videos
-
-* [Probability models](https://www.youtube.com/watch?v=zEwXXE4fWRc)
-* [Conditional probability](https://www.youtube.com/watch?v=JGeTcRfKgBo)
