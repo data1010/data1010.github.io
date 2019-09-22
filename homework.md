@@ -7,7 +7,7 @@ title: Homework
   <thead>
     <tr>
       <th style="text-align: center; width:50px">HW</th>
-      <th style="text-align: center; width:100px">Due Date</th>
+      <th style="text-align: center; width:125px">Due Date</th>
       <th style="text-align: center; width:100px">GitHub Classroom</th>
       <th style="text-align: center; width:160px">Public GitHub Repository</th>
       <th style="text-align: center; width:80px">PDF Solution</th>
