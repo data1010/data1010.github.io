@@ -68,7 +68,7 @@ title: Notebooks and videos
       <td style="text-align: center">Gradient descent algorithms</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/numerical-computing/optimization">[DG]</a></td>
       <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-18">[notebook]</a></td>
-      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="https://youtu.be/amKu-YPYhto">[video]</a></td>
     </tr>
 
   </tbody>
