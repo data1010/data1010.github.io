@@ -20,8 +20,8 @@ title: Homework
       <td style="text-align: center">09-06</td>
       <td style="text-align: center"><a href="https://classroom.github.com/a/2tl5BtAx">[GC]</a></td>
       <td style="text-align: center"><a href="https://github.com/data1010-fall2019/data1010-hw00">[public]</a></td>
-      <td style="text-align: center">N/A</td>
-      <td style="text-align: center">N/A</td>
+      <td style="text-align: center"><a href="/docs/solutions/hw00sol.pdf">[pdf]</a></td>
+      <td style="text-align: center"><a href="/docs/solutions/hw01sol.zip">[zip]</a></td>
    </tr>
    <tr>
       <td style="text-align: center"><a href="/docs/assignments/hw01">01</a></td>
@@ -29,7 +29,7 @@ title: Homework
       <td style="text-align: center"><a href="https://classroom.github.com/a/MlX_i6Cn">[GC]</a></td>
       <td style="text-align: center"><a href="https://github.com/data1010-fall2019/data1010-hw01">[public]</a></td>
       <td style="text-align: center"><a href="/docs/solutions/hw01sol.pdf">[pdf]</a></td>
-      <td style="text-align: center"><a href="/docs/solutions/hw01sol.ipynb">[ipynb]</a></td>
+      <td style="text-align: center"><a href="/docs/solutions/hw01sol.zip">[zip]</a></td>
    </tr>
    <tr>
       <td style="text-align: center"><a href="/docs/assignments/hw02">02</a></td>
@@ -37,15 +37,15 @@ title: Homework
       <td style="text-align: center"><a href="https://classroom.github.com/a/O7kCppvJ">[GC]</a></td>
       <td style="text-align: center"><a href="https://github.com/data1010-fall2019/data1010-hw02">[public]</a></td>
       <td style="text-align: center"><a href="/docs/solutions/hw02sol.pdf">[pdf]</a></td>
-      <td style="text-align: center"><a href="/docs/solutions/hw02sol.ipynb">[ipynb]</a></td>
+      <td style="text-align: center"><a href="/docs/solutions/hw02sol.zip">[zip]</a></td>
    </tr>
    <tr>
       <td style="text-align: center"><a href="/docs/assignments/hw03">03</a></td>
       <td style="text-align: center">09-27</td>
       <td style="text-align: center"><a href="https://classroom.github.com/a/NVyC5ddZ">[GC]</a></td>
       <td style="text-align: center"><a href="https://github.com/data1010-fall2019/data1010-hw03">[public]</a></td>
-      <td style="text-align: center">TBA</td>
-      <td style="text-align: center">TBA</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
    </tr>
   </tbody>
 </table>
