@@ -84,5 +84,12 @@ title: Notebooks and videos
       <td style="text-align: center"> </td>
       <td style="text-align: center"> </td>
     </tr>
+    <tr>
+      <td style="text-align: center">09-25</td>
+      <td style="text-align: center">Common distributions and central limit theorem</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-probability/central-limit-theorem">[DG]</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
   </tbody>
 </table>
