@@ -67,22 +67,22 @@ title: Notebooks and videos
       <td style="text-align: center">09-20</td>
       <td style="text-align: center">Gradient descent algorithms</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/numerical-computing/optimization">[DG]</a></td>
-      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-18">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-20">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/amKu-YPYhto">[video]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">09-23</td>
       <td style="text-align: center">Probability Models</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/intro-probability/">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=zEwXXE4fWRc">[video]</a></td>
-      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-20">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-23">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/WJYjJK79AdY">[video]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">09-25</td>
       <td style="text-align: center">Bayes' theorem and conditional expectation</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/intro-probability/conditional-probability">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=JGeTcRfKgBo">[video]</a></td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-25">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/gyBcaND7jQE">[video]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">09-27</td>
