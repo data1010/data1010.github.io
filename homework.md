@@ -44,8 +44,8 @@ title: Homework
       <td style="text-align: center">09-27</td>
       <td style="text-align: center"><a href="https://classroom.github.com/a/NVyC5ddZ">[GC]</a></td>
       <td style="text-align: center"><a href="https://github.com/data1010-fall2019/data1010-hw03">[public]</a></td>
-      <td style="text-align: center"><a href="/docs/solutions/hw02sol.pdf">[pdf]</a></td>
-      <td style="text-align: center"><a href="/docs/solutions/hw02sol.zip">[zip]</a></td>
+      <td style="text-align: center"><a href="/docs/solutions/hw03sol.pdf">[pdf]</a></td>
+      <td style="text-align: center"><a href="/docs/solutions/hw03sol.zip">[zip]</a></td>
    </tr>
    <tr>
       <td style="text-align: center"><a href="/docs/assignments/hw04">04</a></td>
