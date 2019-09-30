@@ -89,7 +89,7 @@ title: Notebooks and videos
       <td style="text-align: center">Common distributions and central limit theorem</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/intro-probability/central-limit-theorem">[DG]</a></td>
       <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-27">[notebook]</a></td>
-      <td style="text-align: center">https://youtu.be/xbeVRmuSjiU</td>
+      <td style="text-align: center"><a href="https://youtu.be/xbeVRmuSjiU">[video]</a></td>
     </tr>
   </tbody>
 </table>
