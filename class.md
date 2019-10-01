@@ -91,5 +91,26 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-27">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/xbeVRmuSjiU">[video]</a></td>
     </tr>
+    <tr>
+      <td style="text-align: center">09-30</td>
+      <td style="text-align: center">Simulation techniques and introduction to statistics</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics">[DG]</a></td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/09-30">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/cWYfxhVPBP8">[video]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">10-02</td>
+      <td style="text-align: center">Kernel density estimation</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/estimating-joint-densities">[DG]</a></td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/10-02">[notebook]</a></td>
+      <td style="text-align: center"></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">10-04</td>
+      <td style="text-align: center">Simulation techniques and introduction to statistics</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics">[DG]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>
   </tbody>
 </table>
