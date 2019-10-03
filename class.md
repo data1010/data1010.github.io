@@ -103,14 +103,15 @@ title: Notebooks and videos
       <td style="text-align: center">Kernel density estimation</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/estimating-joint-densities">[DG]</a></td>
       <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/10-02">[notebook]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://youtu.be/jl3crfKP4QU"></a></td>
     </tr>
     <tr>
       <td style="text-align: center">10-04</td>
-      <td style="text-align: center">Simulation techniques and introduction to statistics</td>
-      <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics">[DG]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center">Point estimation and confidence intervals</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/point-estimation">[DG]</a></td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/10-04">[notebook]</a></td>
       <td style="text-align: center"></td>
     </tr>
+    
   </tbody>
 </table>
