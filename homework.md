@@ -56,7 +56,7 @@ title: Homework
       <td style="text-align: center"></td>
    </tr>
    <tr>
-      <td style="text-align: center"><a href="/docs/assignments/hw04">05</a></td>
+      <td style="text-align: center"><a href="/docs/assignments/hw05">05</a></td>
       <td style="text-align: center">10-11</td>
       <td style="text-align: center"><a href="https://classroom.github.com/a/7U1TvpJw">[GC]</a></td>
       <td style="text-align: center"><a href="https://github.com/data1010-fall2019/data1010-hw05">[public]</a></td>
