@@ -110,7 +110,7 @@ title: Notebooks and videos
       <td style="text-align: center">Point estimation and confidence intervals</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/point-estimation">[DG]</a></td>
       <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/10-04">[notebook]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://youtu.be/G-B67j0-JD0">[video]</a></td>
     </tr>
     
   </tbody>
