@@ -112,6 +112,19 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/10-04">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/G-B67j0-JD0">[video]</a></td>
     </tr>
-    
+    <tr>
+      <td style="text-align: center">10-07</td>
+      <td style="text-align: center">Empirical CDF convergence and bootstrapping</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/empirical-cdf-convergence">[DG]</a></td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/10-07">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/icBDr-Be42k">[video]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">10-09</td>
+      <td style="text-align: center">Maximum likelihood estimation and hypothesis testing</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/maximum-likelihood-estimation">[DG]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>
   </tbody>
 </table>
