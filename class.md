@@ -123,8 +123,8 @@ title: Notebooks and videos
       <td style="text-align: center">10-09</td>
       <td style="text-align: center">Maximum likelihood estimation and hypothesis testing</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/maximum-likelihood-estimation">[DG]</a></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/10-09">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/-2DdcG5Bg2s">[video]</a></td>
     </tr>
   </tbody>
 </table>
