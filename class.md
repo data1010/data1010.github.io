@@ -126,5 +126,12 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/10-09">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/-2DdcG5Bg2s">[video]</a></td>
     </tr>
+    <tr>
+      <td style="text-align: center">10-11</td>
+      <td style="text-align: center">Statistical Learning Theory</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/introduction">[DG]</a></td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/10-11">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/1B7Nq2Gk_9I">[video]</a></td>
+    </tr>
   </tbody>
 </table>
