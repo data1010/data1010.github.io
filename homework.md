@@ -63,5 +63,13 @@ title: Homework
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
    </tr>
+   <tr>
+      <td style="text-align: center"><a href="/docs/assignments/hw06">06</a></td>
+      <td style="text-align: center">10-18</td>
+      <td style="text-align: center"><a href="https://classroom.github.com/a/fZATP_r0">[GC]</a></td>
+      <td style="text-align: center"><a href="https://github.com/data1010-fall2019/data1010-hw06">[public]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+   </tr>
   </tbody>
 </table>
