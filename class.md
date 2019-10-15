@@ -133,5 +133,19 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/10-11">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/1B7Nq2Gk_9I">[video]</a></td>
     </tr>
+    <tr>
+      <td style="text-align: center">10-15</td>
+      <td style="text-align: center">Linear Regression and Quadratic Discriminant Analysis</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/introduction">[DG]</a></td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/10-15"></a></td>
+      <td style="text-align: center"><a href=""></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">10-17</td>
+      <td style="text-align: center">Likelihood ratio classification</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/likelihood-ratio-classification">[DG]</a></td>
+      <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/10-17"></a></td>
+      <td style="text-align: center"><a href=""></a></td>
+    </tr>
   </tbody>
 </table>
