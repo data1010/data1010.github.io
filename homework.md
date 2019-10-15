@@ -60,8 +60,8 @@ title: Homework
       <td style="text-align: center">10-11</td>
       <td style="text-align: center"><a href="https://classroom.github.com/a/7U1TvpJw">[GC]</a></td>
       <td style="text-align: center"><a href="https://github.com/data1010-fall2019/data1010-hw05">[public]</a></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="/docs/solutions/hw05sol.pdf">[pdf]</a></td>
+      <td style="text-align: center"><a href="/docs/solutions/hw05sol.zip">[zip]</a></td>
    </tr>
    <tr>
       <td style="text-align: center"><a href="/docs/assignments/hw06">06</a></td>
