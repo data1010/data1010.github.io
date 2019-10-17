@@ -138,7 +138,7 @@ title: Notebooks and videos
       <td style="text-align: center">Linear Regression and Quadratic Discriminant Analysis</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/introduction">[DG]</a></td>
       <td style="text-align: center"><a href="https://github.com/data1010/problem-sets/tree/master/10-16"></a></td>
-      <td style="text-align: center"><a href=""></a></td>
+      <td style="text-align: center"><a href="https://youtu.be/W_oQma0YwZw">[video]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">10-18</td>
