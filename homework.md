@@ -62,14 +62,12 @@ title: Homework
       <td style="text-align: center"><a href="https://classroom.github.com/a/fZATP_r0">[GC]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/hw06/data1010-hw06.ipynb">[nbviewer]</a></td>
       <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
    </tr>
    <tr>
       <td style="text-align: center">07</td>
       <td style="text-align: center">10-25</td>
       <td style="text-align: center"><a href="https://classroom.github.com/a/NMBvNUdz">[GC]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/hw07/data1010-hw07.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"></td>
       <td style="text-align: center"></td>
    </tr>
   </tbody>
