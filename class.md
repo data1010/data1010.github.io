@@ -151,14 +151,21 @@ title: Notebooks and videos
       <td style="text-align: center">10-21</td>
       <td style="text-align: center">Generative models (QDA, LDA, Naive Bayes)</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/generative-models">[DG]</a></td>
-      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/10-18/data1010-10-21.ipynb">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/10-21/data1010-10-21.ipynb">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/4Tu_BjVTams">[video]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">10-23</td>
       <td style="text-align: center">Logistic regression</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/logistic-regression">[DG]</a></td>
-      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/10-18/data1010-10-23.ipynb"></a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/10-23/data1010-10-23.ipynb"></a>[notebook]</td>
+      <td style="text-align: center"><a href="https://youtu.be/7ntOcsIDdQE">[video]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">10-25</td>
+      <td style="text-align: center">Support Vector Machines</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/support-vector-machines">[DG]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/10-25/data1010-10-25.ipynb"></a></td>
       <td style="text-align: center"><a href=""></a></td>
     </tr>
   </tbody>
