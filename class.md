@@ -158,7 +158,7 @@ title: Notebooks and videos
       <td style="text-align: center">10-23</td>
       <td style="text-align: center">Logistic regression</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/logistic-regression">[DG]</a></td>
-      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/10-23/data1010-10-23.ipynb"></a>[notebook]</td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/10-23/data1010-10-23.ipynb">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/7ntOcsIDdQE">[video]</a></td>
     </tr>
     <tr>
