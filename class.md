@@ -163,9 +163,16 @@ title: Notebooks and videos
     </tr>
     <tr>
       <td style="text-align: center">10-25</td>
-      <td style="text-align: center">Support Vector Machines</td>
+      <td style="text-align: center">Support Vector Machines (I)</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/support-vector-machines">[DG]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/10-25/data1010-10-25.ipynb"></a></td>
+      <td style="text-align: center"><a href="https://youtu.be/gug-qRUOkv0">[video]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">10-28</td>
+      <td style="text-align: center">Support Vector Machines (II)</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/support-vector-machines">[DG]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/10-28/data1010-10-28.ipynb"></a></td>
       <td style="text-align: center"><a href=""></a></td>
     </tr>
   </tbody>
