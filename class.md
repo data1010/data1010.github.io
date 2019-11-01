@@ -180,7 +180,7 @@ title: Notebooks and videos
       <td style="text-align: center">Decision Trees</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/decision-trees">[DG]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/10-30/data1010-10-30.ipynb"></a></td>
-      <td style="text-align: center"><a href=""></a></td>
+      <td style="text-align: center"><a href="https://youtu.be/w2GUac_GM04">[video]</a></td>
     </tr>
   </tbody>
 </table>
