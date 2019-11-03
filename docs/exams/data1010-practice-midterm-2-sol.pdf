@@ -1,0 +1,532 @@
+\documentclass[julia,prettycode,shellescape,solutions]{worksheet}
+
+\renewcommand{\complement}{^\mathsf{c}}
+
+\begin{document}
+
+\headerwithname{{\large\textbf{\textsc{Brown University}}} \\
+  DATA 1010 \\
+  Fall 2019: Practice Midterm II \\ 
+  Samuel S.\ Watson}{2.8cm}
+
+\vspace{2cm}
+
+{\it You will have three hours to complete this exam. The exam
+  consists of 24 written questions. No calculators or other materials
+  are allowed, except the Julia-Python-R reference sheet and your record of medals from the first exam.
+
+  You are responsible for explaining your answer to {\bf every}
+  question. Your explanations do not have to be any longer than necessary to
+  convince the reader that your answer is correct.
+
+  \vspace{2cm} 
+
+  I verify that I have read the instructions and will abide by the
+  rules of the exam: \underline{\hspace{5cm}}
+}
+
+\newpage 
+
+\begin{taggedproblem}{BAYES}
+  \begin{enumerate}[(a),leftmargin=12pt]
+  \item Suppose that the conditional probability of an email (chosen
+    uniformly at random from a large collection of emails) containing
+    the phrase ``additional income'', given that the email is spam, is
+    14\%. Suppose that the conditional probability of an email being
+    spam, given that it contains the phrase ``additional income'', is
+    88\%. Find the ratio of the probability that an email is spam to
+    the probability that an email contains the phrase ``additional
+    income''.
+  \item We flip a weighted coin that has probability $\frac{3}{4}$ of
+    turning up heads. If we get heads, we roll a six-sided die, and
+    otherwise we roll an eight-sided die. Given that the die turns up
+    4, what is the conditional probability that the coin turned up
+    heads?
+  \end{enumerate}
+\end{taggedproblem}
+
+\sol[height = 10cm] 
+
+\begin{solution}[height = 10cm] 
+    \begin{enumerate}[(a),leftmargin=12pt]
+    \item By the definition of conditional probability, we have
+      \[
+        \frac{\P(A \given B)}{\P(B \given A)} =
+        \frac{P(A \cap B)/\P(B)}{\P(B \cap A)/\P(A)} =
+        \frac{\P(A)}{\P(B)}. 
+      \]
+      Therefore, the desired ratio is $88\%/14\% = 44/7$.
+      
+    \item We have
+      \[
+        \P(\mathrm{roll} = 4) = \frac{3}{4}\cdot\frac{1}{6} +
+        \frac{1}{4}\cdot \frac{1}{8} = \frac{5}{32}, 
+      \]
+      and the proportion of that probability mass which comes from the
+      `heads' branch \\ of the tree is
+      \[
+        \frac{ \frac{3}{4}\cdot\frac{1}{6}}{\frac{5}{32}} =
+        \frac{4}{5}. 
+      \]
+    \end{enumerate}
+    
+    \vspace{-2.8cm}
+
+    \finalanswer[\Large $\frac{44}{7},\frac{4}{5}$]
+\end{solution}
+
+\begin{taggedproblem}{IND}
+  \begin{enumerate}[(a),leftmargin=12pt]
+  \item Suppose that $X_1, \ldots, X_{10}$ are independent
+    Bernoulli$(p)$ random variables defined on a probability space
+    $\Omega$. What is the smallest possible cardinality of $\Omega$?
+  \item Suppose that $U$ and $V$ are independent random variables,
+    each selected uniformly at random from $[0,1]$. Find the
+    probability of the event $\{\frac{1}{2}U+V \leq 1\}$. 
+  \end{enumerate}
+\end{taggedproblem}
+
+\sol[height fill] 
+
+\begin{solution}[height fill] 
+    \begin{insetfigure}{\includegraphics[width=4cm]{figures/trapezoid}}
+    \begin{enumerate}[(a),leftmargin=12pt]
+    \item The range of the random vector $[X_1, \ldots, X_{10}]$
+      (thought of as a map from $\Omega$ to $\R^{10}$) has
+      $2^{10} = 1024$ points in it. Therefore, $\Omega$ must have at
+      least 1024 points. It can have exactly 1024 points; for example,
+      we could take $\Omega = \{0,1\} \times \{0,1\} \times \cdots \times
+      \{0,1\}$ and $X(\omega) = \omega$.
+    \item The joint distribution of $(U,V)$ is the area measure on the
+      unit square. The given event corresponds to the set of points
+      shown shaded in the figure, which we can see from symmetry (using
+      the extra lines drawn there) is $\frac{3}{4}$ of the square. 
+    \end{enumerate}
+  \end{insetfigure}
+\end{solution}
+
+\begin{taggedproblem}{EXP}
+  \begin{enumerate}[(a),leftmargin=12pt]
+  \item Find the expected value of the sum of the sum and product of
+    two independent die rolls.
+  \item You roll a die, and if the result is prime you roll two more
+    dice, and if it isn't prime you roll \textit{three} more
+    dice. Find the expected number of pips showing on the top faces of
+    all of the dice rolled (so, either three dice or four dice).
+  \end{enumerate}
+\end{taggedproblem}
+
+\sol[height fill] 
+
+\begin{solution}[height fill] 
+    \begin{enumerate}[(a),leftmargin=12pt]
+    \item Let $X$ and $Y$ be the two die rolls. Then
+      \[
+        \E[X + Y + XY] = \E[X] + \E[Y] + \E[X]\E[Y] = 3.5 + 3.5 + 3.5^2 =
+        19.25. 
+      \]
+    \item Let us adjust the experiment by rolling the fourth die anyway,
+      If the first die roll isn't prime, we won't count the last
+      one. Then the desired sum is
+      \[
+        X_1 + X_2 + X_3 + YX_4, 
+      \]
+      where $Y$ is the indicator of the event that $X_1$ is prime. Then
+      by linearity of expectation, 
+      \[
+        \E[ X_1 + X_2 + X_3 + YX_4] =
+        \E[X_1] + \E[X_2] + \E[X_3] + \E[YX_4]. 
+      \]
+      Since $Y$ and $X_4$ are independent, this expression simplifies to
+      \[
+        \E[X_1] + \E[X_2] + \E[X_3] + \E[Y]\E[X_4] = \frac{7}{2} + \frac{7}{2} + \frac{7}{2} +
+        \left(\frac{1}{2}\right)\left(\frac{7}{2}\right) =
+        \frac{49}{4}. 
+      \]
+    \end{enumerate}
+
+    \vspace{\rubberlength}
+
+    \finalanswer[\Large $\frac{49}{4}$]
+\end{solution}
+
+\begin{taggedproblem}{COV}
+  Suppose that $X_1$ and $X_2$ are independent and identically distributed.
+  \begin{enumerate}[(a)]
+  \item Find the covariance of $X_1 + X_2$ and $X_1 - X_2$.
+  \item Show that if $X_1$ and $X_2$ are normal random variables, then
+    $X_1 + X_2$ and $X_1 - X_2$ are independent. Hint: use your
+    knowledge of the multivariate normal distribution density. 
+  \end{enumerate}
+\end{taggedproblem}
+
+\sol[height fill] 
+
+\begin{solution}[height fill]
+    \begin{enumerate}[(a),leftmargin=12pt]
+    \item We have $\E[(X_1+X_2)(X_1-X_2)] = \E[X_1^2] - \E[X_2^2]$, and
+      we have $\E[X_1+X_2]\E[X_{1}-X_{2}] = \E[X_1]^2 -
+      \E[X_2]^2$. Subtracting, we find that the covariance of $X_1+X_2$
+      and $X_1-X_2$ is $\Var(X_1) - \Var(X_2)$, which is zero since
+      $X_1$ and $X_2$ have the same distribution and hence also the same
+      variance. We didn't even need the independence hypothesis! 
+    \item If $X_1$ and $X_2$ are independent normal random variables
+      with the same mean $\bdmu$ and variance $\sigma^2$, 
+      then the distribution of
+      \[
+        \left[
+        \begin{array}{c}
+          X_1+X_2 \\
+          X_1-X_2
+        \end{array}
+      \right]  =
+      \left[
+          \begin{array}{cc}
+          1 & 1 \\
+          1 & -1
+        \end{array}
+      \right]\left[
+        \begin{array}{c}
+          X_1 \\
+          X_2
+        \end{array}
+      \right]  =
+      A\left[
+        \begin{array}{c}
+          X_1 \\
+          X_2
+        \end{array}
+      \right]
+    \]
+    is multivariate Gaussian since it's an affine transformation of a
+    vector of independent standard normals. The covariance is
+    $2\sigma^2I$, and the mean is $\bdmu = [2\mu,0]$, so the density is
+    \[
+      \mathbf{y}\mapsto \frac{1}{\sqrt{(2\pi)^2(2\sigma^2)^2}}
+      \e^{-\frac{1}{2(2\sigma^2)}(\mathbf{y}-\bdmu)'(\mathbf{y}-\bdmu)}. 
+    \]
+    Therefore, the density can be written as 
+    \[
+      \frac{1}{\sqrt{2\pi}(\sqrt{2\sigma^2})}\e^{-(y_1-2\mu)^2/(2\cdot2\sigma^2)}
+      \frac{1}{\sqrt{2\pi}(\sqrt{2\sigma^2})}\e^{-y_2^2/(2\cdot2\sigma^2)}, 
+    \]
+    which is the product of the density of $Y_1$ and the density of
+    $Y_2$. Therefore, the two random variables are independent. 
+    \end{enumerate}
+\end{solution}
+
+
+\begin{taggedproblem}{CONDEXP}
+  \begin{enumerate}[(a),leftmargin=12pt]
+  \item Suppose that, for all $x \in \R$, the conditional distribution
+    of $Y$ given $X = x$ is exponential with parameter
+    $\lambda = 2|x|+1$. Find $\E[Y \given X]$.
+  \item What is the strongest conclusion that can be drawn about the
+    distribution of $X$, based on the information in (a)?
+  \end{enumerate}
+\end{taggedproblem}
+
+\sol[height = 7cm] 
+
+\begin{solution}[height = 8cm] 
+  \begin{enumerate}[(a),leftmargin=12pt]
+  \item The conditional expectation is the expectation calculated with
+    respect to the conditional measure. Therefore, the conditional
+    expectation given $X = x$ is the mean of the exponential
+    distribution with parameter $2|x|+1$, which is
+    $\frac{1}{2|x|+1}$. Upper-casing $x$ gives $\frac{1}{2|X|+1}$.
+  \item The only conclusion that can be drawn is that $X$ has either
+    probability mass or probability density at every point on the
+    number line (since otherwise we couldn't make sense of the
+    conditional distribution of $Y$ there). Besides that, it can have
+    any distribution whatsoever, since we can generate $X$ from any
+    distribute we like and then generate $Y$ from the exponential
+    distribution with parameter $2|X|+1$. The resulting pair $(X,Y)$
+    will satisfy the conditions of the problem and have the chosen
+    marginal distribution on $X$. 
+  \end{enumerate}
+
+  \vspace{\rubberlength}
+  
+  \finalanswer[\Large $\frac{1}{2|X|+1}$][2cm][4cm]
+\end{solution}
+
+\begin{taggedproblem}{COMDISTD}
+  Suppose that $S = X_1 + \ldots + X_{n}$, where the $X_i$'s are
+  independent $\operatorname{Ber}(p)$ random variables.
+  \begin{enumerate}[(a)]
+  \item The distribution of $S$ is a named probability measure. Which
+    one is it, and what are the parameters?
+  \item Find the probability mass function for the conditional
+    distribution of $S$ given $\{X_1 = 1\}$.
+  \item You collect some data over a few years, and you find that the
+    number of near-doorings you experience per month on your bicycle
+    commute is approximately Poisson distributed. Give an explanation
+    for why the Poisson distribution might be expected to emerge in
+    this context. 
+  \end{enumerate}
+\end{taggedproblem}
+
+\sol[height fill]
+
+\begin{solution}[height fill] 
+  \begin{enumerate}[(a)]
+  \item The distribution of $S$ is a Binomial distribution with
+    parameters $n$ and $p$. 
+  \item Given that $X_1=1$, the sum of the remaining random variables
+    is a Binomial with parameters $n-1$ and $p$. Therefore, the
+    conditional distribution of $S_n$ given $X_1$ is one plus a
+    $\operatorname{Bin}(n-1,p)$: 
+    \[
+      m(k)  = \binom{n-1}{k-1}p^{k-1}(1-p)^{n-k}. 
+    \]
+  \item Your probability of getting doored on a particular block is
+    low, but you traverse many blocks on your commute. Therefore, the
+    number of doorings is a binomial random variable with large $n$
+    and small $p$ (small enough that $np$ is still modest; otherwise
+    you'd have stopped commuting by bike). The Poisson approximation
+    says that such a distribution is approximately Poisson with
+    parameter $\lambda = n p$. 
+  \end{enumerate}
+\end{solution}
+
+
+\begin{taggedproblem}{COMDISTC}
+  \begin{enumerate}[(a),leftmargin=12pt]
+  \item Find the probability density function of the distribution of
+    $\sqrt{X}$, where $X$ is an exponential random variable with
+    parameter $\lambda$.
+  \item Find $\P(Z = 0.5)$, where $Z$ is a standard normal random
+    variable.
+  \end{enumerate}  
+\end{taggedproblem}
+
+\sol[height = 7cm] 
+
+\begin{solution}[height = 7cm]
+  \begin{enumerate}[(a),leftmargin=12pt]
+    \item We calculate
+      $\P(\sqrt{X} > t) = \P(X > t^2) = \e^{-\lambda t^2}$, which
+      implies that the density function of $\sqrt{X}$ is
+      \[
+        \frac{\d}{\d t}\P(X^2 \leq t) = -\frac{\d}{\d t}\P(X^2 > t) =
+        2\lambda t \e^{-\lambda t^2}.
+      \]
+
+    \item The probability that a normal random variable equals any
+      particular value is $0$.
+  \end{enumerate}
+\end{solution}
+
+
+\begin{taggedproblem}{CLT}
+    The \textbf{chi-squared distribution} with parameter $n$ is the
+    distribution of the sum of the squares of $n$ independent standard
+    normal random variables.
+
+    Let $S_k$ be the sum of $k$ independent chi-squared random variables
+    with parameter 8. Find the limit as $k\to\infty$ of
+    \[
+      \P(8k \leq S_k \leq 8.01k). 
+    \]
+\end{taggedproblem}
+
+\sol[height fill]
+
+\begin{solution}[height fill] 
+  The mean of the chi-squared distribution is
+  \[
+    \E[Z_1^2 + \cdots + Z_8^2], 
+  \]
+  where $Z_i$'s are independent standard normals. Applying linearity
+  and using the fact that $\E[Z_i^2] = \Var Z_i = 1$, we find that the
+  mean of the chi-squared distribution is $8$. The variance of the
+  chi-squared distribution is not as straightforward to calculate
+  explicitly; let's call it $\sigma^2$.
+  
+  The sum $S_k$ has mean $8k$ and variance $k\sigma^2$. Therefore, its
+  typical values are close to $8k$, with fluctuations on the order of
+  $\sigma\sqrt{k}$. Since $0.01 k$ is much larger than
+  $\sigma\sqrt{k}$ when $k$ is large (and since the normal
+  distribution is symmetric), approximately $\boxed{\frac{1}{2}}$ of
+  the mass is between $8k$ and $8k+0.01k$.
+
+  % More precisely, the central limit theorem says that for any $t > 0$
+  % \[
+  %   \lim_{k \to \infty }\P(8k < S_k < t\sigma\sqrt{k}) = \Phi(t) -\Phi(0),
+  % \]
+  % where $\Phi$ is the standard normal CDF. Since 
+
+  \vspace{\rubberlength}
+
+  \finalanswer[\Large $\frac{1}{2}$]
+\end{solution}
+
+\begin{taggedproblem}{POINTEST}
+    \begin{parts} 
+    \item Consider the statistical functional $T(\nu)$ which returns the
+      second moment of $\nu$ (in other words, $T(\nu) = \E[X^2]$ where
+      $X$ is $\nu$-distributed), and let $\theta = T(\nu)$. Is the
+      plug-in estimator of $\theta$ biased? Is it consistent?
+    \item Now consider the estimator $\widehat{\theta}$ of $\theta$
+      which is defined to be the sum of (i) the square of the plug-in
+      estimator of the mean of $\nu$ and (ii) the plug-in estimator of
+      the variance of $\nu$. Is $\widehat{\theta}$ biased? Is it
+      consistent? 
+    \end{parts}
+\end{taggedproblem}
+
+\sol[height = 7cm] 
+
+\begin{solution}[height = 8cm] 
+  \begin{parts}
+  \item The plug-in estimator of $\theta$ is
+    $\frac{1}{n}\sum_{i=1}^{n}X_i^2$, which is unbiased by linearity
+    of expectation and consistent by the law of large numbers.
+  \item We have
+    \begin{align*}
+      \widehat{\theta} &= \overline{X}^2 + \frac{1}{n}\sum_{i=1}^{n} (X_i -
+                         \overline{X})^2 \\
+      &= \overline{X}^2 + \frac{1}{n}\sum_{i=1}^{n}X_i^2 -
+        2\overline{X} \frac{1}{n}\sum_{i=1}^{n}X_i + \overline{X}^2 \\
+                       &= \frac{1}{n}\sum_{i=1}^{n}X_i^2. 
+    \end{align*}
+    Therefore, this estimator is actually the same as the estimator in
+    (a), and it is therefore also unbiased and consistent. 
+  \end{parts}
+\end{solution}
+
+\begin{taggedproblem}{BOOT}
+  One thousand voters are polled about their position on a given
+  ballot initiative, and 637 of them respond that they are in favor of
+  the initiative.
+  \begin{enumerate}[(a)]
+  \item Find the value of the plug-in estimator $\widehat{p}$ of the
+    proportion $p$ of voters who are in favor of the initiative.
+  \item Write an expression which approximates the standard error of
+    $\widehat{p}$. 
+  \item Describe how the bootstrap methodology would be used to
+    produce an estimate of the standard error of $\widehat{p}$. Which
+    approach do you find preferable in this case? 
+  \end{enumerate}
+\end{taggedproblem}
+
+\sol[height fill] 
+
+\begin{solution}[height fill]
+    \begin{parts}
+    \item The value of the plug-in estimator for the observed samples is
+      $\widehat{p} = 637/100 = 63.7\%$.
+    \item We can approximate the standard error of $\widehat{p}$ in
+      terms of the value of $\widehat{p}$ using the fact that the
+      variance of a binomial random variable is $np(1-p)$, and therefore
+      the variance of a binomial random variable divided by $n$ is
+      $p(1-p)/n$. So we estimate the standard error as
+      \[
+        \sqrt{\frac{(0.637)(1-0.637)}{1000}}. 
+      \]
+    \item We could use the bootstrap to accomplish the same objective by
+      drawing from the 1000 responses 1000 times with replacement,
+      calculating the value of the estimator $\widehat{p}$ for each of
+      them, and computing the sample variance of the resulting list.
+
+      In this case, using the formula is preferable, since it provides
+      the exact limiting value of the bootstrap procedure with far less
+      computational expense. The reason that the limiting bootstrap
+      value is equal to the value returned by the formula is that
+      drawing with replacement from 1000 samples, 637 of which are 1's,
+      is exactly the same as sampling independent Bernoulli random
+      variables with $p = 63.7\%$.
+    \end{parts}
+\end{solution}
+
+\begin{taggedproblem}{HYPTEST}
+  One Bayesian criticism of the hypothesis test framework is that it
+  doesn't account for the \textit{a priori} plausibility of the
+  alternative hypothesis.
+  \begin{enumerate}[(a)]
+  \item You have a magician's coin, and you don't know whether it's a
+    regular coin or a two-headed or two-tailed coin. Consider the null
+    hypothesis that the coin is fair, with the alternative hypothesis
+    that the coin favors one of the two sides. You flip the coin 10
+    times, and it comes up heads all 10 times. The null hypothesis is
+    rejected with what $p$-value? What do you actually believe
+    about the coin?
+  \item Now suppose you have a coin that you just got from the cashier
+    at Trader Joe's. You carefully inspect it and determine that it
+    appears to be an entirely ordinary U.S.\ quarter. Once again,
+    consider the null hypothesis that the coin is fair, with the
+    alternative hypothesis that the coin favors one of the two sides.
+    Once again, you flip the coin 10 times, and it comes up heads all
+    10 times. What do you actually believe about this coin? 
+  \end{enumerate}
+\end{taggedproblem}
+
+\sol[height = 4cm] 
+
+\begin{solution}[height = 4cm]
+  \begin{parts}
+  \item Under the null hypothesis, the probability of getting all 10
+    heads or all 10 tails is $2/1024 = 1/512$. Therefore, the
+    $p$-value is $1/512$. I would believe that this coin is likely
+    two-headed.
+  \item The $p$-value is the same as in (a), but I would believe that
+    the coin is fair and it just happened to come up heads 10 times in
+    a row. 
+  \end{parts}
+\end{solution}
+
+
+\begin{taggedproblem}{MLE}
+  \begin{parts}
+    \item Find the maximum likelihood estimator for the family of
+      geometric distributions with parameter $0 < p < 1$. (You don't
+      need to prove that the value you find is actually a maximum; just
+      differentiate the log-likelihood and solve for the zero). 
+
+    \item I simulated 10 independent samples from a geometric
+      distribution with parameter $p$ and got
+      \[
+        0,
+        4,
+        1,
+        3,
+        4,
+        3,
+        1,
+        14,
+        0,
+        13
+      \]
+      Use the maximum likelihood estimator to estimate the value of $p$
+      that I used. 
+    \end{parts}
+\end{taggedproblem}
+
+\sol[height fill] 
+
+\begin{solution}[height fill] 
+    \begin{parts}
+    \item Let $X_1, X_2, \ldots, X_n$ be a sequence of independent
+      random variables with common distribution
+      $\operatorname{Geometric}(p)$. The likelihood function is 
+      \[
+        \mathcal{L}(p) = p(1-p)^{X_1-1}p(1-p)^{X_2-1}\cdots
+        p(1-p)^{X_n-1}, 
+      \]
+      so the log likelihood is
+      \[
+        n \log p + \left(\sum_{i=1}^{n}X_i - n\right) \log(1-p). 
+      \]
+      Setting the derivative of the log likelihood equal to zero yields
+      \[
+        \frac{n}{p} - \frac{\sum_{i=1}^{n}X_i-n}{1-p} = 0, 
+      \]
+      and solving for $p$ gives $p = n/\sum_{i=1}^{n}X_i =
+      1/\overline{X}_n$.
+    \item The average of the 10 provided values is 4.3, so the maximum
+      likelihood estimator of $p$ is $1/4.3$. 
+    \end{parts}
+\end{solution}
+
+\end{document}
