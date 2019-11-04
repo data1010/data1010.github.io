@@ -8,3 +8,5 @@ title: Exams
 * [Exam 1 solution](https://drive.google.com/file/d/1kHUxAr-J77tmLsRJQcehB9D_qA0NSLSz/view?usp=sharing)
 
 * [Practice Exam 2](docs/exams/data1010-practice-midterm-2.pdf) [[solution]](docs/exams/data1010-practice-midterm-2-sol.pdf)
+
+* [Exam 2 cheatsheet](docs/exams/data1010-abridged-cheatsheet.pdf)
