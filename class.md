@@ -194,7 +194,7 @@ title: Notebooks and videos
       <td style="text-align: center">Neural Networks</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/neural-networks">[DG]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/11-06/data1010-11-06.ipynb"></a></td>
-      <td style="text-align: center"><a href="https://youtu.be/Z1I8mCHR7ys"></a>[video]</td>
+      <td style="text-align: center"><a href="https://youtu.be/Z1I8mCHR7ys">[video]</a></td>
     </tr>
   </tbody>
 </table>
