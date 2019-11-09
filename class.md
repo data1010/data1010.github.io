@@ -192,14 +192,14 @@ title: Notebooks and videos
     <tr>
       <td style="text-align: center">11-06</td>
       <td style="text-align: center">Neural Networks (I)</td>
-      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/neural-networks">[DG]</a></td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/neural-networks">[DG]</a>&nbsp;<a href="https://youtu.be/aircAruvnKk">[3B1B]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/11-06/data1010-11-06.ipynb">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/Z1I8mCHR7ys">[video]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">11-08</td>
       <td style="text-align: center">Neural Networks (II)</td>
-      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/neural-networks">[DG]</a></td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/neural-networks">[DG]</a>&nbsp;<a href="https://youtu.be/IHZwWFHWa-w">[3B1B]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/11-08/data1010-11-08.ipynb">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/Duh9OLys5gk">[video]</a></td>
     </tr>
