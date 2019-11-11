@@ -18,28 +18,28 @@ title: Notebooks and videos
       <td style="text-align: center">09-04</td>
       <td style="text-align: center">Programming in Julia</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/programming-in-julia">[DG]</a></td>
-      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/blob/master/09-04/data1010-09-04.ipynb">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/09-04/data1010-09-04.ipynb">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/nfVHIY_IMF0">[video]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">09-06</td>
       <td style="text-align: center">Linear Algebra Practice</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/linear-algebra">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=pz0WmaOU9Xg">[video]</a></td>
-      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/blob/master/09-06/data1010-09-06.ipynb">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/09-06/data1010-09-06.ipynb">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/Dm7ebJmrBl0">[video]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">09-09</td>
       <td style="text-align: center">Eigenvectors and Eigenvalues</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/linear-algebra/eigenanalysis">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=EMpJ_8hM94c">[video]</a></td>
-      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/blob/master/10-16/data1010-09-09.ipynb">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/09-09/data1010-09-09.ipynb">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/nhK8-CZw0bM">[video]</a> <a href="https://youtu.be/hNWP2HgqKZc">[video]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">09-11</td>
       <td style="text-align: center">Multivariable Calculus Review</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/multivariable-calculus">[DG]</a></td>
-      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/blob/master/09-11">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/09-11/data1010-09-11.ipynb">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/EycEXezPLKo">[video]</a></td>
     </tr>
     <tr>
