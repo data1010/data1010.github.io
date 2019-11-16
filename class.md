@@ -221,8 +221,8 @@ title: Notebooks and videos
       <td style="text-align: center">11-15</td>
       <td style="text-align: center">Markov Chain Monte Carlo</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/markov-chain-monte-carlo"></a></td>
-      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/11-15/data1010-11-15.ipynb"></a></td>
-      <td style="text-align: center"><a href=""></a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/11-15/data1010-11-15.ipynb"></a>[notebook]</td>
+      <td style="text-align: center"><a href="https://youtu.be/VEjUaresrxA">[video]</a></td>
     </tr>
   </tbody>
 </table>
