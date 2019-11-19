@@ -85,11 +85,11 @@ title: Homework
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/hw09/data1010-hw09-sol.ipynb">[nbviewer]</a></td>
    </tr>
    <tr>
-      <td style="text-align: center">09</td>
+      <td style="text-align: center">10</td>
       <td style="text-align: center">11-17</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/hw10/data1010-hw10.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/hw10/data1010-hw10-sol.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/hw10/data1010-hw10-sol.ipynb"></a></td>
    </tr>
   </tbody>
 </table>
