@@ -13,4 +13,5 @@ title: Exams
 
 * [Exam 2 solution](https://drive.google.com/file/d/11BPlfsje_J3BLOd8in-hcfSWB4ylCz2Z/view?usp=sharing)
 
-* [Practice Exam 3](docs/exams/data1010-practice-midterm-3.pdf)
+* [Practice Exam 3](docs/exams/data1010-practice-midterm-3.pdf) [[solution]](docs/exams/data1010-practice-midterm-3-sol.pdf)
+
