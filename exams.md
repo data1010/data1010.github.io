@@ -15,3 +15,4 @@ title: Exams
 
 * [Practice Exam 3](docs/exams/data1010-practice-midterm-3.pdf) [[solution]](docs/exams/data1010-practice-midterm-3-sol.pdf)
 
+* [Exam 3 solution](https://drive.google.com/file/d/1I3ZHzy70zIhnhbT07joZAysatlf6I7qA)
