@@ -213,35 +213,35 @@ title: Notebooks and videos
     <tr>
       <td style="text-align: center">11-13</td>
       <td style="text-align: center">Bayesian Statistics</td>
-      <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/introduction"></a></td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/introduction">[DG]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/11-13/data1010-11-13.ipynb">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/2Cl4iaozUjg">[video]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">11-15</td>
       <td style="text-align: center">Markov Chain Monte Carlo</td>
-      <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/markov-chain-monte-carlo"></a></td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/markov-chain-monte-carlo">[DG]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/11-15/data1010-11-15.ipynb">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/VEjUaresrxA">[video]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">11-18</td>
       <td style="text-align: center">Bayes nets and Expectation-Maximization</td>
-      <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/markov-chain-monte-carlo"></a></td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/bayesian-networks">[DG]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/11-18/data1010-11-18.ipynb">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/jl_SFeoNPGY">[video]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">11-22</td>
       <td style="text-align: center">Expectation-Maximization and Hidden Markov Models</td>
-      <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/markov-chain-monte-carlo"></a></td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/expectation-maximization">[DG]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/11-22/data1010-11-22.ipynb">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/Ny9lGrCNpNM">[video]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">11-25</td>
       <td style="text-align: center">Hidden Markov Models: Expectation-Maximization and Probabilistic Programming</td>
-      <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/markov-chain-monte-carlo"></a></td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/probabilistic-programming">[DG]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/11-25/data1010-11-25.ipynb">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/v0vNHlZ3FuE">[video]</a></td>
     </tr>
