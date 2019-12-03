@@ -245,6 +245,12 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/11-25/data1010-11-25.ipynb">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/v0vNHlZ3FuE">[video]</a></td>
     </tr>
+    <tr>
+      <td style="text-align: center">12-02</td>
+      <td style="text-align: center">Causal Inference</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/causal-inference">[DG]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/12-02/data1010-12-02.ipynb">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/s4Y5V25hTnE">[video]</a></td>
+    </tr>  
   </tbody>
 </table>
-
