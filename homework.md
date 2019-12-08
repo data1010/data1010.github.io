@@ -83,7 +83,13 @@ title: Homework
       <td style="text-align: center">11</td>
       <td style="text-align: center">11-27</td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/hw11/data1010-hw11.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/hw11/data1010-hw11-sol.ipynb"></a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/hw11/data1010-hw11-sol.ipynb">[nbviewer]</a></td>
+   </tr>
+   <tr>
+      <td style="text-align: center">12</td>
+      <td style="text-align: center">12-08</td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/hw12/data1010-hw12.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/hw11/data1010-hw12-sol.ipynb"></a></td>
    </tr>
   </tbody>
 </table>
