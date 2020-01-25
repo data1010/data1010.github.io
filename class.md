@@ -251,6 +251,13 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/causal-inference">[DG]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/12-02/data1010-12-02.ipynb">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/s4Y5V25hTnE">[video]</a></td>
-    </tr>  
+    </tr>
+    <tr>
+      <td style="text-align: center">12-04</td>
+      <td style="text-align: center">Query packages</td>
+      <td style="text-align: center"><a href="https://youtu.be/d8HsKaVOqYw">[video]</a>&nbsp;<a href="https://r4ds.had.co.nz/transform.html">[R4DS]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/12-04/data1010-12-04.ipynb">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/GGaeDBcaIGY">[video]</a></td>
+    </tr>
   </tbody>
 </table>
