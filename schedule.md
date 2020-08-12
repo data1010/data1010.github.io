@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: Schedule (2019)
 subtitle: 
 ---
 

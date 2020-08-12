@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notebooks and videos
+title: Notebooks and videos (2019)
 ---
 
 <table>
