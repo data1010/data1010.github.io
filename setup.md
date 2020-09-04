@@ -25,6 +25,18 @@ jupyterlab()
 
 to install the Julia-Jupyter interface and open a Jupyter Lab session in your browser. After the first time you do this, you can either run the last two lines above in a Julia REPL, or you can run `jupyter lab` from the command line if you have Anaconda installed (which you will for DATA 1030 or DATA 1050). 
 
+## Git
+
+To get the course notebooks on your machine, use your command line application (Terminal on macOS) to navigate to wherever you want to store the files and do  
+
+```
+git clone git@github.com:data1010/problem-sets
+```
+
+Try running that command to see if you have Git. If you don't, you'll need to [install it](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). After you've cloned the repo, you can navigate back to the folder and run `git pull` from the command line to retrieve any updates which might have been pushed to the repo on GitHub.
+
+If you need an overview of command line tools and Git, check out the [Utilities](https://mathigon.org/course/data-science-utilities/introduction) course on Data Gymnasia. I recommend using WSL2 (Windows Subsystem for Linux) if you're on Windows, because that way your command line will work the same way it works for folks on macOS and Linux.
+
 ## Julia packages
 
 Each notebook we'll use in the course will include two files in its directory, one called `Project.toml` and the other called `Manifest.toml`. These files contain information about which package versions should be used to ensure that the notebook runs correctly. Running `using Pkg; Pkg.activate(".")` in the notebook will point the Julia runtime to these correct package versions. This process will download and install packages if they're not already present on your system.
