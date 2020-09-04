@@ -25,9 +25,25 @@ title: Notebooks and videos
       <td></td>
       <td></td>
     </tr>
+    <tr>
+      <td style="text-align: center">09-11</td>
+      <td style="text-align: center">Linear Algebra Practice</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/linear-algebra/">[DG]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/3DlHw9vrdqI">[video]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/class-sets/09-11/data1010-09-11.ipynb">[notebook]</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">09-13</td>
+      <td style="text-align: center">Eigenvectors and eigenvalues</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/linear-algebra/eigenanalysis">[DG]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/3NNfl78q1zA">[video]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/class-sets/09-13/data1010-09-13.ipynb">[notebook]</a></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
 <center>
-  ([last year's content](class2019))
+  (<a href="class2019">last year's content</a>)
 </center>
