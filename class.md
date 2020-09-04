@@ -12,7 +12,7 @@ title: Notebooks and videos
       <th style="text-align: center; width:150px">Video</th>
       <th style="text-align: center">Notebook</th>
       <th style="text-align: center">Class notebook</th>
-      <th style="text-align: center">Lecture video</th>
+      <th style="text-align: center">Lecture recording</th>
     </tr>
   </thead>
   <tbody>
