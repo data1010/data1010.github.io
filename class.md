@@ -28,4 +28,6 @@ title: Notebooks and videos
   </tbody>
 </table>
 
-([last year's content](class2019))
+<center>
+  ([last year's content](class2019))
+</center>
