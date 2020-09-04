@@ -23,3 +23,5 @@ title: Notebooks and videos
     </tr>
   </tbody>
 </table>
+
+([last year's content](class2019))
