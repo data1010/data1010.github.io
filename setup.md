@@ -1,91 +1,49 @@
 ---
 layout: page
-title: Julia setup
+title: Getting Started
 ---
 
-## Download
+This page includes instructions for getting started with DATA 1010, whether you're enrolled in the course or not. For those who are enrolled, there are additional instructions available on the [internal site](https://sites.google.com/view/data1010).
 
-If you want to set up Julia on your machine, download the version from [https://julialang.org/downloads](http://julialang.org/downloads). Also, use the standard download link you see on that page, rather than JuliaPro or the conda distribution.
+## Downloading Julia
 
-## Julia and Python
+We're going to use [Julia](https://julialang.org) in the course, and I recommend that you get it installed locally. There will also be a JupyterHub instance so you can run it in the cloud, in case you run into issues with your local installation.
 
-If you have Anaconda installed on your machine, you will want to
-point the IJulia and PyCall packages to your Anaconda executables so
-that it doesn't install its own versions (replace `sswatson` with your
-own username on your machine---also, you will want to check that you
-have Anaconda installed in the same place I do). You have to re-build
-the packages after updating the `ENV` dictionary.
+Download the latest version of Julia from [https://julialang.org/downloads](http://julialang.org/downloads). Note that you should use the standard download link you see on that page, rather than JuliaPro or the Conda distribution or whatever.
 
-**Step 1.** _Find your Anaconda Python executable._ Launch an Anaconda
-Python session and from within that session run 
+Once you've downloaded and installed the Julia application, you'll want to make the `julia` executable visible to your system. To do this, follow the platform-specific instructions [here](https://julialang.org/downloads/platform/). 
 
-```python
-import sys
-sys.executable
+## JupyterLab
+
+We're primarily going to interact with Julia through JupyterLab. To get started with JupyterLab, type `julia` at your command line (after installation and setup) to open a Julia REPL. Then run
+
+```
+using Pkg; Pkg.add("IJulia")
+using IJulia
+jupyterlab()
 ```
 
-Make note of this path. 
+to install the Julia-Jupyter interface and open a Jupyter Lab session in your browser. After the first time you do this, you can either run the last two lines above in a Julia REPL, or you can run `jupyter lab` from the command line if you have Anaconda installed (which you will for DATA 1030 or DATA 1050). 
 
-**Step 2.** _Find your Jupyter executable_. On a Mac, run `which
-jupyter` from a Terminal session get the path of your Jupyter
-executable. It's probably somewhere like
-`/Users/sswatson/anaconda3/bin/jupyter`. On Windows, it's probably
-somewhere like `C:/Users/sswatson/Anaconda3/Scripts/jupyter`. You can
-check this by starting Command Prompt, typing `cd Ana` and
-pressing tab to see if it autocompletes to `cd Anaconda3`. Then start
-typing `Scripts` and hit tab again to see that it completes to
-`Scripts`. 
+## Julia packages
 
-**Step 3.** _[Download Julia](https://julialang.org/downloads/) and run
-the following from a Julia session._ Replace the Jupyter and Python
-paths below with what you found in Steps 1 and 2. 
-
-```julia
-using Pkg
-Pkg.add("PyCall")
-Pkg.add("IJulia")
-ENV["JUPYTER"] = "/Users/sswatson/anaconda3/bin/jupyter"
-Pkg.build("IJulia")
-ENV["PYTHON"] = "/Users/sswatson/anaconda3/bin/python"
-Pkg.build("PyCall")
-```
-
-**Step 4.** We will also be using the `Plots` package and a few
-others, so you can go ahead and run 
-```julia
-Pkg.add("Plots")
-Pkg.add("Images")
-Pkg.add("Colors")
-```
-If you don't install these now, you can install them later. 
+Each notebook we'll use in the course will include two files in its directory, one called `Project.toml` and the other called `Manifest.toml`. These files contain information about which package versions should be used to ensure that the notebook runs correctly. Running `using Pkg; Pkg.activate(".")` in the notebook will point the Julia runtime to these correct package versions. This process will download and install packages if they're not already present on your system.
 
 ---
 
 ## Troubleshooting
 
-If you have any trouble with the above installation, here are some
+If you have any trouble with package installations, here are some
 tips: 
 
 1. If you're having trouble with a package, you can try rebuilding
    it by doing `Pkg.build("PackageName")`, and you can also
    `Pkg.rm("PackageName"); Pkg.add("PackageName")` to remove it
    and add it back. 
-1. Do `using PyCall; PyCall.python` to see which Python executable
-   your installation is using. You want it to be in a directory with
-   `Anaconda3` or `anaconda3` in the path string. 
-1. If your error message includes something about GR, you might need
-   to rebuild your GR package or use PyPlot instead (these are both
-   _backends_ for Plots, meaning that they are used to generate the
-   figures corresponding to your Plots commands). To rebuild GR, try
-   `Pkg.update(); ENV["GRDIR"] = ""; Pkg.build("GR")`. To switch to
-   PyPlot, try `Pkg.add("PyPlot"); Pkg.add("LaTeXStrings"); using
+1. You can do `using PyCall; PyCall.python` to see which Python executable your installation is using.
+1. If your error message includes something about GR, you might need to rebuild your GR package or use PyPlot instead (these are both _backends_ for Plots, meaning that they are used to generate the figures corresponding to your Plots commands). To rebuild GR, try `Pkg.update(); ENV["GRDIR"] = ""; Pkg.build("GR")`. To switch to PyPlot, try `Pkg.add("PyPlot"); Pkg.add("LaTeXStrings"); using
    Plots; pyplot()`.
-1. Try googling the error message. Other folks have probably had
-    similar issues, and sometimes the fix is pretty easy. 
-1. If you have Windows 7, there are instructions on the downloads
-   page for stuff you have to do for Julia to work. One of these is
-   the Windows Management Framework, which is necessary for Julia to
-   be able to download binaries for its packages. 
+1. Try googling the error message. Other folks have probably had similar issues, and sometimes the fix is pretty easy. 
 
 ---
 
@@ -102,12 +60,12 @@ basic idea is to put a `startup.jl` file in `~/.julia/config/`, where
 
 1. Open a Terminal session 
 2. Run `cd ~/.julia/`
-3. Run `ls` to see if there is a `config` folder already there. If
-   not, make one with `mkdir config`. 
+3. Run `ls` to see if there is a `config` folder already there. If not, make one with `mkdir config`. 
 4. Run `cd config`
-5. Run `emacs startup.jl` to create a `startup.jl` file and open an
-   editor to put content into it. 
-6. Type `using Statistics, LinearAlgebra` and then save the file with
-   `Ctrl-x Ctrl-s` (hold control and press `x`, then release and press
-   `s`)
+5. Run `emacs startup.jl` to create a `startup.jl` file and open an editor to put content into it. 
+6. Type `using Statistics, LinearAlgebra` and then save the file with `Ctrl-x Ctrl-s` (hold control and press `x`, then release and press `s`)
 7. Close the editor with `Ctrl-x Ctrl-c`
+
+## Instructions for enrolled students
+
+Several other steps are necessary for those who are enrolled in the course. Please visit the [internal site](https://sites.google.com/view/data1010) for that information. 
