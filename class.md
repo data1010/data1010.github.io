@@ -46,6 +46,6 @@ title: Notebooks and videos
   </tbody>
 </table>
 
-<center>
+<center style="margin-top: 12px;">
   (<a href="..class2019">last year's content</a>)
 </center>
