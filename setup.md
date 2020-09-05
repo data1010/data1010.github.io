@@ -30,7 +30,7 @@ to install the Julia-Jupyter interface and open a Jupyter Lab session in your br
 To get the course notebooks on your machine, use your command line application (Terminal on macOS) to navigate to wherever you want to store the files and do  
 
 ```
-git clone git@github.com:data1010/problem-sets
+git clone https://github.com/data1010/problem-sets.git
 ```
 
 Try running that command to see if you have Git. If you don't, you'll need to [install it](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). After you've cloned the repo, you can navigate back to the folder and run `git pull` from the command line to retrieve any updates which might have been pushed to the repo on GitHub.
