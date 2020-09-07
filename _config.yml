@@ -37,6 +37,7 @@ navbar-links:
     - Piazza: "https://piazza.com/brown/fall2020/data1010"
     - Prismia: "https://prismia.chat"
     - Setup: "setup"
+    - Login-protected: "https://sites.google.com/view/data1010"
   Reference:
     - Course cheatsheet: "docs/cheatsheets/data1010-cheatsheet.pdf"
     - Julia-Python-R cheatsheet: "docs/cheatsheets/jpr-cheatsheet.pdf"
