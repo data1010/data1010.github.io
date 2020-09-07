@@ -24,7 +24,7 @@ description: Probability, Statistics, and Machine Learning
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  Class: 
+  Class:
     - Notebooks and Videos: "class"
     - Schedule: "schedule"
   Homework:
@@ -34,8 +34,8 @@ navbar-links:
   Resources:
     - Data Gymnasia: "https://mathigon.org/data-gymnasia"
     - Gradescope: "https://www.gradescope.com/courses/158688"
-    - Piazza: "https://piazza.com/class/jzh53hgnml03fu"
-    - Tips: "tips"
+    - Piazza: "https://piazza.com/brown/fall2020/data1010"
+    - Prismia: "https://prismia.chat"
   Reference:
     - Course cheatsheet: "docs/cheatsheets/data1010-cheatsheet.pdf"
     - Julia-Python-R cheatsheet: "docs/cheatsheets/jpr-cheatsheet.pdf"
