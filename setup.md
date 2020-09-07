@@ -11,7 +11,7 @@ We're going to use [Julia](https://julialang.org) in the course, and I recommend
 
 Download the latest version of Julia from [https://julialang.org/downloads](http://julialang.org/downloads). Note that you should use the standard download link you see on that page, rather than JuliaPro or the Conda distribution or whatever.
 
-Once you've downloaded and installed the Julia application, you'll want to make the `julia` executable visible to your system. To do this, follow the platform-specific instructions [here](https://julialang.org/downloads/platform/). 
+Once you've downloaded and installed the Julia application, you'll want to make the `julia` executable visible to your system. To do this, follow the platform-specific instructions [here](https://julialang.org/downloads/platform/).
 
 ## JupyterLab
 
@@ -23,7 +23,7 @@ using IJulia
 jupyterlab()
 ```
 
-to install the Julia-Jupyter interface and open a Jupyter Lab session in your browser. After the first time you do this, you can either run the last two lines above in a Julia REPL, or you can run `jupyter lab` from the command line if you have Anaconda installed (which you will for DATA 1030 or DATA 1050). 
+to install the Julia-Jupyter interface and open a Jupyter Lab session in your browser. After the first time you do this, you can either run the last two lines above in a Julia REPL, or you can run `jupyter lab` from the command line if you have Anaconda installed (which you will for DATA 1030 or DATA 1050).
 
 ## Git
 
@@ -46,16 +46,16 @@ Each notebook we'll use in the course will include two files in its directory, o
 ## Troubleshooting
 
 If you have any trouble with package installations, here are some
-tips: 
+tips:
 
 1. If you're having trouble with a package, you can try rebuilding
    it by doing `Pkg.build("PackageName")`, and you can also
    `Pkg.rm("PackageName"); Pkg.add("PackageName")` to remove it
-   and add it back. 
+   and add it back.
 1. You can do `using PyCall; PyCall.python` to see which Python executable your installation is using.
 1. If your error message includes something about GR, you might need to rebuild your GR package or use PyPlot instead (these are both _backends_ for Plots, meaning that they are used to generate the figures corresponding to your Plots commands). To rebuild GR, try `Pkg.update(); ENV["GRDIR"] = ""; Pkg.build("GR")`. To switch to PyPlot, try `Pkg.add("PyPlot"); Pkg.add("LaTeXStrings"); using
    Plots; pyplot()`.
-1. Try googling the error message. Other folks have probably had similar issues, and sometimes the fix is pretty easy. 
+1. Try googling the error message. Other folks have probably had similar issues, and sometimes the fix is pretty easy.
 
 ---
 
@@ -63,21 +63,22 @@ tips:
 
 If you don't want to have to run `using Statistics, LinearAlgebra` in
 every session, you can put these lines in your `startup.jl` file. The
-code in this file is loaded every time you run Julia. 
+code in this file is loaded every time you run Julia.
 
 The instructions below are for macOS/Linux. The same idea applies if
 you're using Windows, but the navigation commands are different. The
 basic idea is to put a `startup.jl` file in `~/.julia/config/`, where
-`~` represents whatever the home directory is on your system. 
+`~` represents whatever the home directory is on your system.
 
 1. Open a Terminal session 
 2. Run `cd ~/.julia/`
-3. Run `ls` to see if there is a `config` folder already there. If not, make one with `mkdir config`. 
+3. Run `ls` to see if there is a `config` folder already there. If not, make one with `mkdir config`.
 4. Run `cd config`
-5. Run `emacs startup.jl` to create a `startup.jl` file and open an editor to put content into it. 
-6. Type `using Statistics, LinearAlgebra` and then save the file with `Ctrl-x Ctrl-s` (hold control and press `x`, then release and press `s`)
-7. Close the editor with `Ctrl-x Ctrl-c`
+5. Run `vi startup.jl` to create a `startup.jl` file and open an editor to put content into it.
+6. Type `i` to insert text, and then type `using Statistics, LinearAlgebra`.
+7. Save the file by pressing escape, then `:wq`, and then enter.
+
 
 ## Instructions for enrolled students
 
-Several other steps are necessary for those who are enrolled in the course. Please visit the [internal site](https://sites.google.com/view/data1010) for that information. 
+Several other steps are necessary for those who are enrolled in the course. Please visit the [internal site](https://sites.google.com/view/data1010) for that information.
