@@ -17,7 +17,7 @@ title: Notebooks and videos
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center">09-11</td>
+      <td style="text-align: center">09-09</td>
       <td style="text-align: center">Welcome!</td>
       <td></td>
       <td></td>
