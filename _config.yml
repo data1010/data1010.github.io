@@ -36,6 +36,7 @@ navbar-links:
     - Gradescope: "https://www.gradescope.com/courses/158688"
     - Piazza: "https://piazza.com/brown/fall2020/data1010"
     - Prismia: "https://prismia.chat"
+    - Setup: "setup"
   Reference:
     - Course cheatsheet: "docs/cheatsheets/data1010-cheatsheet.pdf"
     - Julia-Python-R cheatsheet: "docs/cheatsheets/jpr-cheatsheet.pdf"
