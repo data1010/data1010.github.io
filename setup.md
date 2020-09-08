@@ -11,7 +11,7 @@ We're going to use [Julia](https://julialang.org) in the course, and I recommend
 
 Download the latest version of Julia from [https://julialang.org/downloads](http://julialang.org/downloads). Note that you should use the standard download link you see on that page, rather than JuliaPro or the Conda distribution or whatever.
 
-Once you've downloaded and installed the Julia application, you'll want to make the `julia` executable visible to your system. To do this, follow the platform-specific instructions [here](https://julialang.org/downloads/platform/).
+Once you've downloaded and installed the Julia application, you'll want to make the `julia` executable visible to your system. To do this, follow the platform-specific instructions [here](https://julialang.org/downloads/platform/). (For macOS users, there's a chance you might not already have a `/usr/local/bin` directory; if that's the case, then you'll get an error when you run the `ln -s` command suggested on the Julia website. If that's the case, do `mkdir -p /usr/local/bin` and then run the `ln -s` command again.)
 
 ## JupyterLab
 
@@ -70,7 +70,7 @@ you're using Windows, but the navigation commands are different. The
 basic idea is to put a `startup.jl` file in `~/.julia/config/`, where
 `~` represents whatever the home directory is on your system.
 
-1. Open a Terminal session 
+1. Open a Terminal session
 2. Run `cd ~/.julia/`
 3. Run `ls` to see if there is a `config` folder already there. If not, make one with `mkdir config`.
 4. Run `cd config`
