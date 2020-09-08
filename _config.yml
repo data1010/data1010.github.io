@@ -36,6 +36,7 @@ navbar-links:
     - Gradescope: "https://www.gradescope.com/courses/158688"
     - Piazza: "https://piazza.com/brown/fall2020/data1010"
     - Prismia: "https://prismia.chat"
+    - JupyterHub: "https://data1010.jupyter.brown.edu"
     - Setup: "setup"
     - Login-protected: "https://sites.google.com/view/data1010"
   Reference:
