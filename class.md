@@ -29,7 +29,7 @@ title: Notebooks and videos
       <td style="text-align: center">09-11</td>
       <td style="text-align: center">Programming in Julia</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/programming-in-julia">[DG]</a></td>
-      <td style="text-align: center"><a href="https://youtu.be/nfVHIY_IMF0">[video]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/aUol22WhK6f">[video]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-11/data1010-09-11.ipynb">[notebook]</a></td>
       <td></td>
       <td></td>
