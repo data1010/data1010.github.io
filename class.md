@@ -23,7 +23,7 @@ title: Notebooks and videos
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td><a href="https://brown.zoom.us/rec/share/D2_crafsTqf_8GVJm_zie4YHQtfurgTAiVkvgciaJP7M5I51wGFkwvvo13qdRWhg.IVU9gGwcxOX1vBt3?startTime=1599660007000">[zoom]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">09-11</td>
