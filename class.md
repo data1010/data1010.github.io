@@ -11,7 +11,7 @@ title: Notebooks and videos
       <th style="text-align: center; width:125px">Reading</th>
       <th style="text-align: center; width:150px">Video</th>
       <th style="text-align: center">Notebook</th>
-      <th style="text-align: center">Class notebook</th>
+      <th style="text-align: center">Prismia script</th>
       <th style="text-align: center">Lecture recording</th>
     </tr>
   </thead>
@@ -22,7 +22,7 @@ title: Notebooks and videos
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td><a href="https://prismia.chat/shared/YLIH-HODO">[script]</a></td>
       <td><a href="https://brown.zoom.us/rec/share/D2_crafsTqf_8GVJm_zie4YHQtfurgTAiVkvgciaJP7M5I51wGFkwvvo13qdRWhg.IVU9gGwcxOX1vBt3?startTime=1599660007000">[zoom]</a></td>
     </tr>
     <tr>
@@ -31,8 +31,8 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/programming-in-julia">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/aUol22WhK6f">[video]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-11/data1010-09-11.ipynb">[notebook]</a></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://prismia.chat/shared/XY06-LCPW">[script]</a></td>
+      <td><a href="https://brown.zoom.us/rec/share/8fzI2nsNgMHuf5lsZtOvXaNSGLBK_14-kOBTh7Kb1ccvTcoaeaaLwcPVl2-09vTN.RhtIrQCA2RbB_Rc9">[zoom]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">09-14</td>
