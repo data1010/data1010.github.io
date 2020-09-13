@@ -3,7 +3,7 @@ layout: page
 title: Homework
 ---
 
-<table>
+<table style={margin-left: auto; margin-right: auto;}>
   <thead>
     <tr>
       <th style="text-align: center; width:50px">HW</th>
