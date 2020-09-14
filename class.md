@@ -40,20 +40,21 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/linear-algebra/">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/lVnmVkN96qC">[video]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-14/data1010-09-14.ipynb">[notebook]</a></td>
-      <td></td>
-      <td></td>
+      <td style="text-align: center">https://prismia.chat/shared/8V2I-NQX0</td>
+      <td><a href="https://brown.zoom.us/rec/share/VGy4mXEfsIU42t_Sus3ycCGjyaO8LLpo-YjrzO9sVlBxjUHBeu9kWrT5fsVHsTQj.9OVHXbBPwK6KiS-S">[zoom]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">09-16</td>
       <td style="text-align: center">Eigenvectors and eigenvalues</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/linear-algebra/eigenanalysis">[DG]</a></td>
-      <td style="text-align: center"><a href="https://youtu.be/3NNfl78q1zA">[video]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/aOjw_ceyTzQ">[video]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-16/data1010-09-16.ipynb">[notebook]</a></td>
       <td></td>
       <td></td>
     </tr>
   </tbody>
 </table>
+
 
 <center style="margin-top: 36px;">
   (<a href="/class2019">last year's content</a>)
