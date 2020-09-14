@@ -40,7 +40,7 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/linear-algebra/">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/lVnmVkN96qC">[video]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-14/data1010-09-14.ipynb">[notebook]</a></td>
-      <td style="text-align: center">https://prismia.chat/shared/8V2I-NQX0</td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/8V2I-NQX0">[script]</a></td>
       <td><a href="https://brown.zoom.us/rec/share/VGy4mXEfsIU42t_Sus3ycCGjyaO8LLpo-YjrzO9sVlBxjUHBeu9kWrT5fsVHsTQj.9OVHXbBPwK6KiS-S">[zoom]</a></td>
     </tr>
     <tr>
