@@ -24,11 +24,10 @@ description: Probability, Statistics, and Machine Learning
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  Class:
-    - Notebooks and Videos: "class"
-    - Schedule: "schedule"
+  Class: "class"
   Homework:
     - Homework: "homework"
+    - Instructions: "hwsubmit"
     - Office Hours: "https://sites.google.com/view/data1010"
   Exams: "exams"
   Resources:
