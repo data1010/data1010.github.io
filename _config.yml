@@ -29,7 +29,7 @@ navbar-links:
     - Schedule: "schedule"
   Homework:
     - Homework: "homework"
-    - Office Hours: "officehours"
+    - Office Hours: "https://sites.google.com/view/data1010"
   Exams: "exams"
   Resources:
     - Data Gymnasia: "https://mathigon.org/data-gymnasia"
