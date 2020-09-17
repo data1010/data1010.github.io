@@ -49,9 +49,9 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/linear-algebra/eigenanalysis">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/aOjw_ceyTzQ">[video]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-16/data1010-09-16.ipynb">[notebook]</a></td>
-      <td style="text-align: center">https://prismia.chat/shared/4P9K-UD9I</td>
-      <td style="text-align: center"><a href=</td>
-"https://brown.zoom.us/rec/share/bE5wOH9NtNKuBZHAgK9jrXe-xMWuAs59Fzx7DV8bAlKCH_WtieGL9eyWydqY8MPp.pUBRivOXETtAyruw?startTime=1600265488000">[zoom]</a></tr>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/4P9K-UD9I">[scrip]</a></td>
+      <td style="text-align: center"><a href=
+"https://brown.zoom.us/rec/share/bE5wOH9NtNKuBZHAgK9jrXe-xMWuAs59Fzx7DV8bAlKCH_WtieGL9eyWydqY8MPp.pUBRivOXETtAyruw?startTime=1600265488000">[zoom]</a></td></tr>
     <tr>
       <td style="text-align: center">09-18</td>
       <td style="text-align: center">Multivariable Calculus</td>
