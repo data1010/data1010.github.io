@@ -58,13 +58,17 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/multivariable-calculus">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/1itQt_4vsyB">[video]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-18/data1010-09-18.ipynb">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/M9ZK-E0VG">[script]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/bGr9O27v8XJc9atyYlVUgEKQs2Zg_iS6_zBHQbRXR3xT49KMuLYeWu0AhHXLQrGE.8j3GmT4jkSaehaxd?startTime=1600437646000">[zoom]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">09-21</td>
+      <td style="text-align: center">Matrix differentiation</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/multivariable-calculus/matrix-differentiation">[DG]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/M5ywacia4xN">[video]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-21/data1010-09-21.ipynb">[notebook]</a></td>
       <td></td>
       <td></td>
     </tr>
   </tbody>
 </table>
-
-
-<center style="margin-top: 36px;">
-  (<a href="/class2019">last year's content</a>)
-</center>
