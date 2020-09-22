@@ -76,7 +76,11 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/numerical-computing">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/jHrtfXYXm3g">[video]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-23/data1010-09-23.ipynb">[notebook]</a></td>
-      <td />
-      <td />
+      <td> </td>
+      <td> </td>
   </tbody>
 </table>
+
+<center style="margin-top: 36px;">
+  (<a href="/class2019">last year's content</a>)
+</center>
