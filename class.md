@@ -91,15 +91,7 @@ title: Notebooks and videos
   </tbody>
 </table>
 
-Topic: DATA 1010
-Start Time : Sep 23, 2020 09:53 AM
-
-Meeting Recording:
-https://brown.zoom.us/rec/share/ZlelPeDfik1SgLN3yvaJAPec23p2E0N8gZAGY9tIkKfIzqGl8TRpWTExMqJ0GTj9.QcDsvXxOg7tHfXCu
-
 
 <center style="margin-top: 36px;">
   (<a href="/class2019">last year's content</a>)
 </center>
-
-https://itempool.com/sswatson/c/jHrtfXYXm3g
