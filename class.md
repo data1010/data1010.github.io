@@ -104,6 +104,8 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/numerical-computing/optimization">[DG]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-30/data1010-09-30.ipynb">[notebook]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/vZMKy9sonjM">[video]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
     </tr>
     <tr>
       <td style="text-align: center">9</td>
@@ -116,7 +118,7 @@ title: Notebooks and videos
       <td style="text-align: center"></td>
     </tr>
     <tr>
-      f<<td style="text-align: center">10</td>    
+      <td style="text-align: center">10</td>    
       <td style="text-align: center">10-02</td>
       <td style="text-align: center">Bayes' theorem and conditional expectation</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/intro-probability/conditional-probability">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=JGeTcRfKgBo">[video]</a></td>
