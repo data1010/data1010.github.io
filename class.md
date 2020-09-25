@@ -85,11 +85,33 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/numerical-computing/pseudorandom-number-generation">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/1bsi2WiiTMk">[video]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-25/data1010-09-25.ipynb">[notebook]</a></td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/E90I-3E50">[script]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/M2jTeEhZkxctJnYdBaBUouRo-sgjeSQWc8mXcLOZ3p0ivx2VIzp9LB2A969w7kHz.zrg3_YzjMqkDJTr0">[zoom]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">09-28</td>
+      <td style="text-align: center">Gradient descent algorithms</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/numerical-computing/optimization">[DG]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-30/data1010-09-30.ipynb">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/vZMKy9sonjM">[video]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">09-30</td>
+      <td style="text-align: center">Probability Review</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-probability/">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=zEwXXE4fWRc">[video]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-30/data1010-09-30.ipynb">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/QdYaYoIt3Ns">[video]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">10-02</td>
+      <td style="text-align: center">Bayes' theorem and conditional expectation</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-probability/conditional-probability">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=JGeTcRfKgBo">[video]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-02/data1010-10-02.ipynb">[notebook]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/FrHdm4mlsvw">[video]</a></td>
     </tr>
   </tbody>
 </table>
+
 
 
 <center style="margin-top: 36px;">
