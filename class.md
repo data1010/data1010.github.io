@@ -111,7 +111,7 @@ title: Notebooks and videos
       <td style="text-align: center">9</td>
       <td style="text-align: center">09-30</td>
       <td style="text-align: center">Probability Review</td>
-      <td style="text-align: center"><a href="https://mathigon.org/course/intro-probability/">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=zEwXXE4fWRc">[youtube]</a></td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-probability/">[DG]</a>&nbsp;<a href="https://itempool.com/sswatson/c/56NGeqFIP72">[itempool]</a></td>
       <td style="text-align: center"><a href="https://youtu.be/QdYaYoIt3Ns">[youtube]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-30/data1010-09-30.ipynb">[nbviewer]</a></td>
       <td style="text-align: center"></td>
