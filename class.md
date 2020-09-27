@@ -63,7 +63,7 @@ title: Notebooks and videos
       <td style="text-align: center">Multivariable Calculus</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/multivariable-calculus">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/1itQt_4vsyB">[itempool]</a></td>
-      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-18/data1010-09-18.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-18/data1010-09-18.ipynb">[nbviewer]</a></td> 
       <td style="text-align: center"><a href="https://prismia.chat/shared/M9ZK-E0VG">[prismia]</a></td>
       <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/bGr9O27v8XJc9atyYlVUgEKQs2Zg_iS6_zBHQbRXR3xT49KMuLYeWu0AhHXLQrGE.8j3GmT4jkSaehaxd?startTime=1600437646000">[zoom]</a></td>
     </tr>
