@@ -102,7 +102,7 @@ title: Notebooks and videos
       <td style="text-align: center">09-28</td>
       <td style="text-align: center">Gradient descent algorithms</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/numerical-computing/optimization">[DG]</a></td>
-      <td style="text-align: center"><a href="https://youtu.be/vZMKy9sonjM">[youtube]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/yMmMigkGV0I">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-30/data1010-09-30.ipynb">[nbviewer]</a></td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
