@@ -104,8 +104,8 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/numerical-computing/optimization">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/yMmMigkGV0I">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/09-28/data1010-09-28.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/9CTD-CJRU">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/WW8sBSWtVWu0HDfFfGoQu-A6d1GEtkdM-kYa1n5moyoIIC8mmt4UrJQIR0KQmRs.ZfI7deMxNgTY7EJR">[zoom]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">9</td>
