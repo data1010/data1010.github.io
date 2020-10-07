@@ -144,8 +144,8 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=JGeTcRfKgBo">[youtube]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/6oCxsTRSpWH">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-07/data1010-10-07.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/29O8-H044">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/wtsxTrU96hTLZpbfiE_55Xm-F7wy1AutrhCc0Pvz1dd6UDvxt7CaYJnJU1Mq2lqW.lA6fncF_xwoi5rS9?startTime=1602079544000">[zoom]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">13</td>    
