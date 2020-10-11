@@ -154,8 +154,8 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/estimating-joint-densities">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=JGeTcRfKgBo">[youtube]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/UFfRqAXk16A">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-09/data1010-10-09.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/CN9I-0TW7">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/PylXTYwp8Ylf7DIEQB9j_MF1mImmJ9qkDlvpWj8vbhXdRQOumZ-ArPJSmV4SOwry.7mjRUNbcIPcPAPhj">[zoom]</a></td>
     </tr>
   </tbody>
 </table>
