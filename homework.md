@@ -37,5 +37,11 @@ title: Homework
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/homework/hw04/data1010-hw-04.ipynb">[nbviewer]</a></td>
       <td style="text-align: center"></td>
     </tr>
+    <tr>
+      <td style="text-align: center">05</td>
+      <td style="text-align: center">10-16</td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/homework/hw05/data1010-hw-05.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"></td>
+    </tr>
   </tbody>
 </table>
