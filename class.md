@@ -157,6 +157,36 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://prismia.chat/shared/CN9I-0TW7">[prismia]</a></td>
       <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/PylXTYwp8Ylf7DIEQB9j_MF1mImmJ9qkDlvpWj8vbhXdRQOumZ-ArPJSmV4SOwry.7mjRUNbcIPcPAPhj">[zoom]</a></td>
     </tr>
+    <tr>
+      <td style="text-align: center">14</td>    
+      <td style="text-align: center">10-14</td>
+      <td style="text-align: center">Point estimation and confidence intervals</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/point-estimation">[DG]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/TlFVX95RHCu">[itempool]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-14/data1010-10-14.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">15</td>    
+      <td style="text-align: center">10-16</td>
+      <td style="text-align: center">Empirical CDF convergence and bootstrapping</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/empirical-cdf-convergence">[DG]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/ugxg0tdTmgg">[itempool]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-16/data1010-10-16.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">16</td>    
+      <td style="text-align: center">10-19</td>
+      <td style="text-align: center">Maximum likelihood estimation and hypothesis testing</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/maximum-likelihood-estimation">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=JGeTcRfKgBo">[youtube]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/83D4nBu4rhq">[itempool]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-19/data1010-10-19.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>    
   </tbody>
 </table>
 
