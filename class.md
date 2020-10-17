@@ -164,7 +164,7 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/point-estimation">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/TlFVX95RHCu">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-14/data1010-10-14.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/U2R8-HYUT">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/0SR5-TZEJ">[prismia]</a></td>
       <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/RlIgWH6WPUUmo8Id5KjJxhuS_gzni2FZxFMr6ID8BCst20R8zcXTqfLc_Ev2i7Ei.xtgfLMJawBOrG6MF?startTime=1602684301000">[zoom]</a></td>
     </tr>
     <tr>
