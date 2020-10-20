@@ -184,8 +184,8 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/maximum-likelihood-estimation">[DG]</a>&nbsp;<a href="https://www.youtube.com/watch?v=JGeTcRfKgBo">[youtube]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/83D4nBu4rhq">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-19/data1010-10-19.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/V6DC-W2CG">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/3mWDLiwONHJCWsFvlcZw3T9SW-lG7cKqF1ism_vdM8hSg1BIVm05uwW96BfZGAR4.I_wnHLeFbTfEFAAo">[zoom]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">17</td>    
