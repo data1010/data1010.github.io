@@ -191,7 +191,7 @@ title: Notebooks and videos
       <td style="text-align: center">17</td>    
       <td style="text-align: center">10-21</td>
       <td style="text-align: center">Statistical Learning Theory</td>
-      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/introduction">[DG]</a</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/introduction">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/PfZGws8_y3s">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-21/data1010-10-21.ipynb">[nbviewer]</a></td>
       <td style="text-align: center"></td>
