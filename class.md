@@ -196,6 +196,16 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-21/data1010-10-21.ipynb">[nbviewer]</a></td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">18</td>    
+      <td style="text-align: center">10-23</td>
+      <td style="text-align: center">Linear Regression and Quadratic Discriminant Analysis</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/a-regression-example-linear-models">[DG]</a><a href="https://mathigon.org/course/machine-learning/a-classification-example-qda">[DG]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/kwKFtg0286k">[itempool]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-23/data1010-10-23.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
     </tr>    
   </tbody>
 </table>
