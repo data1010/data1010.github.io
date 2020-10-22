@@ -44,15 +44,8 @@ Here are some options for blog hosting:
 2. **FastPages**. From FastAI, [this option](https://github.com/fastai/fastpages) allows you to author content in Jupyter notebook format (or .docx, or Markdown) and have it automatically deployed via GitHub to a blog hosted on a GitHub page. They've done the work of getting all the workflows organized, so all you have to do is a few initial setup steps and then upload your Jupyter Notebook to a specific directory in your repo. Check out [this video walkthrough](https://www.youtube.com/watch?v=L0boq3zqazI) to see how it all works.
 
 
+### Reviews
 
+After the blog posts are submitted, each person will be responsible for reading two other students' blog posts and providing feedback on what they found clear, interesting, helpful, etc. The mapping between readers and blog posts will be chosen uniformly at random.
 
-
-
-
-
-
-
-
-
-
----
+The review deadline will be two weeks after the blog post submission deadline. You should not expect the review to represent a very large time investment; the goal is to provide an incentive to do a good enough job with the blog post that it will be helpful to at least the two readers from the class (plus the peer feedback).
