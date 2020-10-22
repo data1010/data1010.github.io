@@ -28,6 +28,7 @@ navbar-links:
   Homework:
     - Homework: "homework"
     - Instructions: "hwsubmit"
+    - Project: "project"
   Resources:
     - Data Gymnasia: "https://mathigon.org/data-gymnasia"
     - Itempool: "https://itempool.com"
