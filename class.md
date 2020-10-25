@@ -194,8 +194,8 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/introduction">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/PfZGws8_y3s">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-21/data1010-10-21.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/2QEQ-HRCD">prismia</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/vUIL7fbQCsofAx-_iBUO56V2yX3g6TXZbKjhQHznzuG3wUCA1foqDvjv8_E37uAT.ONM-bpz258CWmdnJ">[zoom]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">18</td>    
@@ -204,9 +204,39 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/a-regression-example-linear-models">[DG]</a><a href="https://mathigon.org/course/machine-learning/a-classification-example-qda">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/kwKFtg0286k">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-23/data1010-10-23.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/G2CY-6U3T">prismia</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/TYWWdMCWgretIuBKdirYcSZoW8y1T7xZsIz_3zMnIdFYVZ5r8RfPsnKdmZCFyfg.Mz5CStmd9B4q2s4H">[zoom]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">19</td>    
+      <td style="text-align: center">10-26</td>
+      <td style="text-align: center">Likelihood ratio classification</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/likelihood-ratio-classification">[DG]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/nMFzZ87YNVm">[itempool]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-26/data1010-10-26.ipynb">[nbviewer]</a></td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
-    </tr>    
+    </tr>
+    <tr>
+      <td style="text-align: center">20</td>    
+      <td style="text-align: center">10-28</td>
+      <td style="text-align: center">Generative models (QDA, LDA, Naive Bayes)</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/generative-models">[DG]</a></td>
+      <td style="text-align: center">[itempool]</td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-28/data1010-10-28.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">21</td>    
+      <td style="text-align: center">10-30</td>
+      <td style="text-align: center">Logistic Regression</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/logistic-regression">[DG]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/in5ztcNJ9r5">[itempool]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-30/data1010-10-30.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>
   </tbody>
 </table>
 
