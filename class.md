@@ -237,6 +237,16 @@ title: Notebooks and videos
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
     </tr>
+    <tr>
+      <td style="text-align: center">22</td>    
+      <td style="text-align: center">11-02</td>
+      <td style="text-align: center">Support Vector Machines</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/support-vector-machines">[DG]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/eIe2pG61FMV">[itempool]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/11-02/data1010-11-02.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>
   </tbody>
 </table>
 
