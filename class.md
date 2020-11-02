@@ -224,8 +224,8 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/generative-models">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/9uyg7dRg8wc">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-28/data1010-10-28.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/LFNW-AQJ2">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/JxF9xy5bL-8ldjJsbt54AGm2Z5LY4_y4D65eSYGK6_xIIHPirvi3EB78hcwRbzcR.4okNbliWNgn-kv1C?startTime=1603893873000">[zoom]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">21</td>    
@@ -234,8 +234,8 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/logistic-regression">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/in5ztcNJ9r5">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/10-30/data1010-10-30.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/VJEQ-TXEF">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/fDWjCgAxtufNiLbxis4gTsWcODqXnZY6-f_Xs3sd_kBZcbXJ_NNtZYsoGjAqpod8.7gMHWx4rqYpQb9dI?startTime=1604066829000">[zoom]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">22</td>    
