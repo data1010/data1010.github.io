@@ -254,6 +254,7 @@ title: Notebooks and videos
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
       <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/qkCsOCwqetgD9tMCe99R1OLiqr1K45e-ME926MPVXJAGZhgWT7BpI32akSWNbysY.uhPIofT2f2Zx5pD8?startTime=1604503662000">[zoom]</a></td>
     </tr>
     <tr>
