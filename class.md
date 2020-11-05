@@ -244,6 +244,25 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/support-vector-machines">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/eIe2pG61FMV">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/11-02/data1010-11-02.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/Y08B-902Z">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/xJdlJQKZrFV2kxfak1jHI4lxEbCzh0vivl0HDia9kDSbUebdVeHVSxLDzWe9nl8h.P6aIDVnhrVtu9v8-?startTime=1604330414000">[zoom]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">-</td>    
+      <td style="text-align: center">11-04</td>
+      <td style="text-align: center">Review Day</td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/qkCsOCwqetgD9tMCe99R1OLiqr1K45e-ME926MPVXJAGZhgWT7BpI32akSWNbysY.uhPIofT2f2Zx5pD8?startTime=1604503662000">[zoom]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">23</td>    
+      <td style="text-align: center">11-06</td>
+      <td style="text-align: center">Support Vector Machines (II)</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/support-vector-machines">[DG]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/-9ZcwN4bd7s">[itempool]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/11-06/data1010-11-06.ipynb">[nbviewer]</a></td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
     </tr>
