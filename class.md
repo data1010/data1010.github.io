@@ -267,6 +267,16 @@ title: Notebooks and videos
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
     </tr>
+    <tr>
+      <td style="text-align: center">24</td>    
+      <td style="text-align: center">11-09</td>
+      <td style="text-align: center">Decision Trees</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/decision-trees">[DG]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/VfgSSlBsHEi">[itempool]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/11-09/data1010-11-09.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>    
   </tbody>
 </table>
 
