@@ -264,8 +264,8 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/support-vector-machines">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/-9ZcwN4bd7s">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/11-06/data1010-11-06.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/8VDT-P8HB">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/HU9GHrXof2skOWuF6RUE0SSCalbmYXpQjuCLorc6w-sG08KIFjLLauqzCzR7vH-c.mH0ExF9LM7bpLonC?startTime=1604675372000">[zoom]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">24</td>    
@@ -274,9 +274,29 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/decision-trees">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/VfgSSlBsHEi">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/11-09/data1010-11-09.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/WMZB-P94A">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/lbexk9q5vsJDfHQVpEMdC_XTmOd0IXNN7gezRu02v4jp_-MGThPjuy8pIu1RjMxu.lpK5CLG8xsMhksdM?startTime=1604934561000">[zoom]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">25</td>    
+      <td style="text-align: center">11-11</td>
+      <td style="text-align: center">Ensemble Methods</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/ensemble-methods">[DG]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/l9yqJp7t6Kg">[itempool]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/11-11/data1010-11-11.ipynb">[nbviewer]</a></td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
-    </tr>    
+    </tr>
+    <tr>
+      <td style="text-align: center">26</td>    
+      <td style="text-align: center">11-13</td>
+      <td style="text-align: center">Neural Networks</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/neural-networks">[DG]</a>&nbsp;<a href="https://youtu.be/aircAruvnKk">[3B1B]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/BiLOx4R3qsI">[itempool]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/11-13/data1010-11-13.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>            
   </tbody>
 </table>
 
