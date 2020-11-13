@@ -6,7 +6,7 @@ title: Project
 ## Project
 
 
-This course includes one project, which will be due on Tuesday, November 21st at midnight. You will create your project as a blog post and submit it via URL.
+This course includes one project, which will be due on Saturday, November 21st at midnight. You will create your project as a blog post and submit it via URL.
 
 ### Content
 
@@ -43,6 +43,13 @@ Here are some options for blog hosting:
 1. **Medium**. The go-to option for this sort of thing. It has a clean, beautiful writing interface. One major disadvantage is that it doesn't directly support mathematical typesetting. So you're going to have to explore options which involve generating images and including them that way (which can be annoying when you want to edit). You can also use the [Math Anywhere](https://chrome.google.com/webstore/detail/math-anywhere/gebhifiddmaaeecbaiemfpejghjdjmhc?hl=en) Chrome extension (which is going to be less work, but it means someone has to install that extension to read your article). If you take the latter option, add a note at the beginning of the article with instructions for downloading the extension.
 2. **FastPages**. From FastAI, [this option](https://github.com/fastai/fastpages) allows you to author content in Jupyter notebook format (or .docx, or Markdown) and have it automatically deployed via GitHub to a blog hosted on a GitHub page. They've done the work of getting all the workflows organized, so all you have to do is a few initial setup steps and then upload your Jupyter Notebook to a specific directory in your repo. Check out [this video walkthrough](https://www.youtube.com/watch?v=L0boq3zqazI) to see how it all works.
 
+### Expectations
+
+The main objectives to keep in mind as you write your article are readability, informativeness, and accuracy. You want to set the stage: explain the motivation and describe what you're going to accomplish. Then get into the details, explain how the various components work in the context of an illustrative example, and also make some connections to real-world applications.
+
+All of these are loose suggestions. The main goal is to *tell a great story*. The only specifically required element is *some* presentation of a nontrivial mathematical idea, even if it isn't the main overall focus. It's also very likely that you're going to need to include some visuals to create a compelling reading experience.
+
+A good example to look at for style and length is [this article](https://towardsdatascience.com/building-a-music-recommendation-engine-with-probabilistic-matrix-factorization-in-pytorch-7d2934067d4a). It's very much on the longer end of the spectrum at around 3600 words; I recommend targeting a length in the range 50% to 100% as long as this one (shorter than 1500 words would be too short). The other thing this article does which is not necessary is a code walkthrough; whether you want to do that is up to you.
 
 ### Reviews
 
