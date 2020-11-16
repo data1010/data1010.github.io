@@ -294,7 +294,7 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/neural-networks">[DG]</a>&nbsp;<a href="https://youtu.be/aircAruvnKk">[3B1B]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/BiLOx4R3qsI">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/preclass-sets/11-13/data1010-11-13.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"><a href="">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/XSVD-TAZK">[prismia]</a></td>
       <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/njpatmbuXkThSFqU4vxu2Uz-AJU3Biz9f3hsok73ti45IRM1uY4T5lR0PLj3c4wB.PeLwfezoozgxvuss?startTime=1605279778000">[zoom]</a></td>
     </tr>
     <tr>
@@ -304,7 +304,7 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/neural-networks">[DG]</a>&nbsp;<a href="https://youtu.be/IHZwWFHWa-w">[3B1B]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/fXEx7-qA0ok">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/2020/11-13/data1010-11-13.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/IW9G-VN46">[prismia]</a></td>
       <td style="text-align: center"></td>
     </tr>
   </tbody>
