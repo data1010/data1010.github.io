@@ -305,6 +305,26 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/fXEx7-qA0ok">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/2020/11-13/data1010-11-13.ipynb">[nbviewer]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/IW9G-VN46">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/t4OMXA9wXQBa3WRvTipINe5u5FhdRtTV6rPnPrs20lD-r1Qc6fZURa5Tn4KJ3No1._r8mkrg_H5Wi1Loh?startTime=1605539235000">[zoom]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">28</td>
+      <td style="text-align: center">11-18</td>
+      <td style="text-align: center">Dimension Reduction</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/dimension-reduction">[DG]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/nU3BshE5iC9">[itempool]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/2020/11-18/data1010-11-18.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">11-20</td>
+      <td style="text-align: center">Review</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center"></td>
       <td style="text-align: center"></td>
     </tr>
   </tbody>
