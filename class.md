@@ -314,8 +314,8 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/dimension-reduction">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/nU3BshE5iC9">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/2020/11-18/data1010-11-18.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/IGRD-DU6H">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/Equg8TkUJYChCCoV7UYx9GGXw_QijHYcEl9TPgfFRpWa8iw_RnwSYZtTtabhbH_a.DXme1mBp4QUkH8qC?startTime=1605712155000">[zoom]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">-</td>
