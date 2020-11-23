@@ -327,6 +327,16 @@ title: Notebooks and videos
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
     </tr>
+    <tr>
+      <td style="text-align: center">29</td>
+      <td style="text-align: center">11-13</td>
+      <td style="text-align: center">Bayesian Statistics and MCMC</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/introduction">[DG]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/ipvRuWZquJW">[itempool]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/2020/11-23/data1010-11-23.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>
   </tbody>
 </table>
 
