@@ -324,16 +324,26 @@ title: Notebooks and videos
       <td style="text-align: center">-</td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">-</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/Z09F-XH1X">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/w0WxxfhmUit0NsYo3fDTA4tmc_MgqTMlTgi2xiz3IgeLnGUCtFLHABpzOhed4gih.scGbrt9Twsj-VP-n?startTime=1605884476000">[zoom]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">29</td>
       <td style="text-align: center">11-13</td>
-      <td style="text-align: center">Bayesian Statistics and MCMC</td>
+      <td style="text-align: center">Bayesian Statistics and Markov Chains</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/introduction">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/ipvRuWZquJW">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/2020/11-23/data1010-11-23.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"><a href="https:/prismia.chat/shared/2P91-76T3">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/s59sNLV1Rv7zfoOF-TylPY1pKkaw7UoliH23KjxJYEluOBEm5eAwqRvYtq32g-HC.ev1JmoOpkTa6gLkt?startTime=1606143804000">[zoom]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">30</td>
+      <td style="text-align: center">11-25</td>
+      <td style="text-align: center">Markov Chain Monte Carlo</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/markov-chain-monte-carlo">[DG]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/fresirnLYSS">[itempool]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/2020/11-25/data1010-11-25.ipynb">[nbviewer]</a></td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
     </tr>
