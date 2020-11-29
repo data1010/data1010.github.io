@@ -338,12 +338,42 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/s59sNLV1Rv7zfoOF-TylPY1pKkaw7UoliH23KjxJYEluOBEm5eAwqRvYtq32g-HC.ev1JmoOpkTa6gLkt?startTime=1606143804000">[zoom]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">30</td>
+      <td style="text-align: center">-</td>
       <td style="text-align: center">11-25</td>
+      <td style="text-align: center">Review Day</td>
+      <td style="text-align: center">--</td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/fresirnLYSS">[itempool]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/2020/11-25/data1010-11-25.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/CL66-T80W">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/8UybORdL1qER5XBJBZnA_6WKXByDwdT_L5cAqRwpckRi20NmXLeXvatEE7C8B7Nt.-Li-qHT86DvOF4sL?startTime=1606316857000">[zoom]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">31</td>
+      <td style="text-align: center">11-30</td>
       <td style="text-align: center">Markov Chain Monte Carlo</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/markov-chain-monte-carlo">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/fresirnLYSS">[itempool]</a></td>
-      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/2020/11-25/data1010-11-25.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/2020/11-30/data1010-11-30.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">32</td>
+      <td style="text-align: center">12-02</td>
+      <td style="text-align: center">Causal Inference</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/causal-inference">[DG]</a></td>
+      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/jFzR-oJFmsj">[itempool]</a></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/2020/12-02/data1010-12-02.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">33</td>
+      <td style="text-align: center">12-04</td>
+      <td style="text-align: center">Final Review</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
     </tr>
