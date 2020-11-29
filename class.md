@@ -341,9 +341,9 @@ title: Notebooks and videos
       <td style="text-align: center">-</td>
       <td style="text-align: center">11-25</td>
       <td style="text-align: center">Review Day</td>
-      <td style="text-align: center">--</td>
-      <td style="text-align: center"><a href="https://itempool.com/sswatson/c/fresirnLYSS">[itempool]</a></td>
-      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/2020/11-25/data1010-11-25.ipynb">[nbviewer]</a></td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/CL66-T80W">[prismia]</a></td>
       <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/8UybORdL1qER5XBJBZnA_6WKXByDwdT_L5cAqRwpckRi20NmXLeXvatEE7C8B7Nt.-Li-qHT86DvOF4sL?startTime=1606316857000">[zoom]</a></td>
     </tr>
