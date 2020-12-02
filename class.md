@@ -372,7 +372,7 @@ title: Notebooks and videos
       <td style="text-align: center">12-04</td>
       <td style="text-align: center">Final Review</td>
       <td style="text-align: center">-</td>
-      <td style="text-align: center">-</td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/R9V1-98IE">[prismia]</a></td>
       <td style="text-align: center">-</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
