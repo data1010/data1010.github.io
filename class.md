@@ -354,7 +354,7 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/markov-chain-monte-carlo">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/fresirnLYSS">[itempool]</a></td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/2020/11-30/data1010-11-30.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"><a href="https:/prismia.chat/shared/CPGH-2UQW">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/CPGH-2UQW">[prismia]</a></td>
       <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/KAJY5u5x8ZB8qYfWtliyoWsWdvtjJXfQXdb8qVK-l_qoMkW1c9nsHhH3OVDmDPR6.Z0Hnb-1Q6GslngG_?startTime=1606748883000">[zoom]</a></td>
     </tr>
     <tr>
