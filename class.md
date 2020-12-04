@@ -374,8 +374,8 @@ title: Notebooks and videos
       <td style="text-align: center">-</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/R9V1-98IE">[prismia]</a></td>
       <td style="text-align: center">-</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/ZI8Y-YCE8">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/uGfcY-_G2d1DIoh2xtdOW_cM_GHOyvsVxBXggCDnfe75pU7DiSsRGw-KCzc2HO6J.7k_YYwqfuzh5uyq_?startTime=1607095892000">[zoom]</a></td>
     </tr>
   </tbody>
 </table>
