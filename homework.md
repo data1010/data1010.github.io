@@ -47,19 +47,19 @@ title: Homework
       <td style="text-align: center">06</td>
       <td style="text-align: center">10-23</td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/homework/hw06/data1010-hw-06.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/homework/hw06/data1010-hw-06-sol.ipynb">[nbviewer]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">07</td>
       <td style="text-align: center">10-30</td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/homework/hw07/data1010-hw-07.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/homework/hw07/data1010-hw-07-sol.ipynb">[nbviewer]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">08</td>
       <td style="text-align: center">11-06</td>
       <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/homework/hw08/data1010-hw-08.ipynb">[nbviewer]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://nbviewer.jupyter.org/github/data1010/problem-sets/blob/master/homework/hw08/data1010-hw-08-sol.ipynb">[nbviewer]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">09</td>
