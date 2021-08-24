@@ -360,7 +360,7 @@ title: Notebooks and videos
     <tr>
       <td style="text-align: center">33</td>
       <td style="text-align: center">12-01</td>
-      <td style="text-align: center">Hidden Markov Models: Expectation-Maximization and Probabilistic Programming</td>
+      <td style="text-align: center">Probabilistic Programming</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/probabilistic-programming">[DG]</a></td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">-</td>
