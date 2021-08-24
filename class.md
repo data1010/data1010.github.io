@@ -248,18 +248,8 @@ title: Notebooks and videos
       <td style="text-align: center">[zoom]</td>
     </tr>
     <tr>
-      <td style="text-align: center">-</td>    
-      <td style="text-align: center">11-03</td>
-      <td style="text-align: center">Review Day</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center">[zoom]</td>
-    </tr>
-    <tr>
       <td style="text-align: center">23</td>    
-      <td style="text-align: center">11-05</td>
+      <td style="text-align: center">11-03</td>
       <td style="text-align: center">Support Vector Machines (II)</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/support-vector-machines">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/-9ZcwN4bd7s">[itempool]</a></td>
@@ -269,7 +259,7 @@ title: Notebooks and videos
     </tr>
     <tr>
       <td style="text-align: center">24</td>    
-      <td style="text-align: center">11-08</td>
+      <td style="text-align: center">11-05</td>
       <td style="text-align: center">Decision Trees</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/decision-trees">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/VfgSSlBsHEi">[itempool]</a></td>
@@ -279,7 +269,7 @@ title: Notebooks and videos
     </tr>
     <tr>
       <td style="text-align: center">25</td>    
-      <td style="text-align: center">11-10</td>
+      <td style="text-align: center">11-08</td>
       <td style="text-align: center">Ensemble Methods</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/ensemble-methods">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/l9yqJp7t6Kg">[itempool]</a></td>
@@ -289,7 +279,7 @@ title: Notebooks and videos
     </tr>
     <tr>
       <td style="text-align: center">26</td>    
-      <td style="text-align: center">11-12</td>
+      <td style="text-align: center">11-10</td>
       <td style="text-align: center">Neural Networks</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/neural-networks">[DG]</a>&nbsp;<a href="https://youtu.be/aircAruvnKk">[3B1B]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/BiLOx4R3qsI">[itempool]</a></td>
@@ -299,7 +289,7 @@ title: Notebooks and videos
     </tr>
     <tr>
       <td style="text-align: center">27</td>
-      <td style="text-align: center">11-15</td>
+      <td style="text-align: center">11-12</td>
       <td style="text-align: center">Neural Networks (II)</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/neural-networks">[DG]</a>&nbsp;<a href="https://youtu.be/IHZwWFHWa-w">[3B1B]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/fXEx7-qA0ok">[itempool]</a></td>
@@ -309,7 +299,7 @@ title: Notebooks and videos
     </tr>
     <tr>
       <td style="text-align: center">28</td>
-      <td style="text-align: center">11-17</td>
+      <td style="text-align: center">11-15</td>
       <td style="text-align: center">Dimension Reduction</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/machine-learning/dimension-reduction">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/nU3BshE5iC9">[itempool]</a></td>
@@ -318,18 +308,8 @@ title: Notebooks and videos
       <td style="text-align: center">[zoom]</td>
     </tr>
     <tr>
-      <td style="text-align: center">-</td>
-      <td style="text-align: center">11-19</td>
-      <td style="text-align: center">Review</td>
-      <td style="text-align: center">-</td>
-      <td style="text-align: center">-</td>
-      <td style="text-align: center">-</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/Z09F-XH1X">[prismia]</a></td>
-      <td style="text-align: center">[zoom]</td>
-    </tr>
-    <tr>
       <td style="text-align: center">29</td>
-      <td style="text-align: center">11-22</td>
+      <td style="text-align: center">11-17</td>
       <td style="text-align: center">Bayesian Statistics and Markov Chains</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/introduction">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/ipvRuWZquJW">[itempool]</a></td>
@@ -338,18 +318,8 @@ title: Notebooks and videos
       <td style="text-align: center">[zoom]</td>
     </tr>
     <tr>
-      <td style="text-align: center">-</td>
-      <td style="text-align: center">11-24</td>
-      <td style="text-align: center">Review Day</td>
-      <td style="text-align: center">-</td>
-      <td style="text-align: center">-</td>
-      <td style="text-align: center">-</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/CL66-T80W">[prismia]</a></td>
-      <td style="text-align: center">[zoom]</td>
-    </tr>
-    <tr>
       <td style="text-align: center">30</td>
-      <td style="text-align: center">11-29</td>
+      <td style="text-align: center">11-19</td>
       <td style="text-align: center">Markov Chain Monte Carlo</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/markov-chain-monte-carlo">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/fresirnLYSS">[itempool]</a></td>
@@ -358,17 +328,47 @@ title: Notebooks and videos
       <td style="text-align: center">[zoom]</td>
     </tr>
     <tr>
-      <td style="text-align: center">32</td>
-      <td style="text-align: center">12-01</td>
+      <td style="text-align: center">31</td>
+      <td style="text-align: center">11-22</td>
+      <td style="text-align: center">Bayes nets and Expectation-Maximization</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/bayesian-networks">[DG]</a></td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">-</td>
-      <td style="text-align: center">-</td>
-      <td style="text-align: center">[zoom]</td>
     </tr>    
     <tr>
-      <td style="text-align: center">31</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">11-24</td>
+      <td style="text-align: center">Review Day</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+    </tr>    
+    <tr>
+      <td style="text-align: center">32</td>
+      <td style="text-align: center">11-29</td>
+      <td style="text-align: center">Expectation-Maximization and Hidden Markov Models</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/expectation-maximization">[DG]</a></td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+    </tr>     
+    <tr>
+      <td style="text-align: center">33</td>
+      <td style="text-align: center">12-01</td>
+      <td style="text-align: center">Hidden Markov Models: Expectation-Maximization and Probabilistic Programming</td>
+      <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/probabilistic-programming">[DG]</a></td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+    </tr>        
+    <tr>
+      <td style="text-align: center">34</td>
       <td style="text-align: center">12-03</td>
       <td style="text-align: center">Causal Inference</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/causal-inference">[DG]</a></td>
@@ -378,14 +378,14 @@ title: Notebooks and videos
       <td style="text-align: center">[zoom]</td>
     </tr>
     <tr>
-      <td style="text-align: center">32</td>
+      <td style="text-align: center">-</td>
       <td style="text-align: center">12-06</td>
       <td style="text-align: center">Final Review</td>
       <td style="text-align: center">-</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/R9V1-98IE">[prismia]</a></td>
       <td style="text-align: center">-</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/ZI8Y-YCE8">[prismia]</a></td>
-      <td style="text-align: center">[zoom]</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
     </tr>
     
     
