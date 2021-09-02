@@ -6,7 +6,7 @@ title: Project
 ## Project
 
 
-This course includes one project, which will be due on Saturday, November 21st at midnight. You will create your project as a blog post and submit it via URL.
+This course includes one project, which will be due on TBD. You will create your project as a blog post and submit it via URL.
 
 ### Content
 
