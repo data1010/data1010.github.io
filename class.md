@@ -339,7 +339,7 @@ title: Notebooks and videos
     </tr>    
     <tr>
       <td style="text-align: center">-</td>
-      <td style="text-align: center">11-24</td>
+      <td style="text-align: center">11-29</td>
       <td style="text-align: center">Review Day</td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">-</td>
@@ -349,7 +349,7 @@ title: Notebooks and videos
     </tr>    
     <tr>
       <td style="text-align: center">32</td>
-      <td style="text-align: center">11-29</td>
+      <td style="text-align: center">12-01</td>
       <td style="text-align: center">Expectation-Maximization and Hidden Markov Models</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/expectation-maximization">[DG]</a></td>
       <td style="text-align: center">-</td>
@@ -359,7 +359,7 @@ title: Notebooks and videos
     </tr>     
     <tr>
       <td style="text-align: center">33</td>
-      <td style="text-align: center">12-01</td>
+      <td style="text-align: center">12-03</td>
       <td style="text-align: center">Probabilistic Programming</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/bayesian-inference-and-graphical-models/probabilistic-programming">[DG]</a></td>
       <td style="text-align: center">-</td>
@@ -369,7 +369,7 @@ title: Notebooks and videos
     </tr>        
     <tr>
       <td style="text-align: center">34</td>
-      <td style="text-align: center">12-03</td>
+      <td style="text-align: center">12-06</td>
       <td style="text-align: center">Causal Inference</td>
       <td style="text-align: center"><a href="https://mathigon.org/course/intro-statistics/causal-inference">[DG]</a></td>
       <td style="text-align: center"><a href="https://itempool.com/sswatson/c/jFzR-oJFmsj">[itempool]</a></td>
@@ -379,7 +379,7 @@ title: Notebooks and videos
     </tr>
     <tr>
       <td style="text-align: center">-</td>
-      <td style="text-align: center">12-06</td>
+      <td style="text-align: center">12-08</td>
       <td style="text-align: center">Final Review</td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">-</td>
