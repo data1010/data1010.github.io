@@ -25,10 +25,7 @@ description: Probability, Statistics, and Machine Learning
 navbar-links:
   Home: "index"
   Class: "class"
-  Homework:
-    - Homework: "homework"
-    - Instructions: "hwsubmit"
-    - Project: "project"
+  Project: "project"
   Resources:
     - Prismia: "https://prismia.chat"
     - Office Hours: "https://sites.google.com/view/data1010"
