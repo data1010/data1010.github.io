@@ -237,7 +237,3 @@ title: Notebooks and videos
     </tr>
   </tbody>
 </table>
-
-<center style="margin-top: 36px;">
-  (<a href="/class2020">last year's content</a>)
-</center>
