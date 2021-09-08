@@ -23,7 +23,7 @@ title: Notebooks and videos
       <td style="text-align: center">1</td>
       <td style="text-align: center">09-10</td>
       <td style="text-align: center">Programming in Julia</td>
-      <td style="text-align: center">https://prismia.chat/shared/X3ZS-ICYN</td>
+      <td style="text-align: center">[shared lesson](https://prismia.chat/shared/X3ZS-ICYN)</td>
     </tr>
     <tr>
       <td style="text-align: center">2</td>    
