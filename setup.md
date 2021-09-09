@@ -3,11 +3,11 @@ layout: page
 title: Getting Started
 ---
 
-This page includes instructions for getting started with DATA 1010, whether you're enrolled in the course or not. For those who are enrolled, there are additional instructions available on the [internal site](https://sites.google.com/view/data1010).
+This page includes instructions for getting started with DATA 1010.
 
 ## Downloading Julia
 
-We're going to use [Julia](https://julialang.org) in the course, and I recommend that you get it installed locally. There will also be a JupyterHub instance so you can run it in the cloud, in case you run into issues with your local installation.
+We're going to use [Julia](https://julialang.org) in the course, and I recommend that you get it installed locally. You can also the web-based Prismia version, but there is some delay in starting up your instance, and you will likely find that you prefer the experience of a locally installed version.
 
 Download the latest version of Julia from [https://julialang.org/downloads](http://julialang.org/downloads). Note that you should use the standard download link you see on that page, rather than JuliaPro or the Conda distribution or whatever.
 
@@ -36,10 +36,6 @@ git clone https://github.com/data1010/problem-sets.git
 Try running that command to see if you have Git. If you don't, you'll need to [install it](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). After you've cloned the repo, you can navigate back to the folder and run `git pull` from the command line to retrieve any updates which might have been pushed to the repo on GitHub.
 
 If you need an overview of command line tools and Git, check out the [Utilities](https://mathigon.org/course/data-science-utilities/introduction) course on Data Gymnasia. I recommend using WSL2 (Windows Subsystem for Linux) if you're on Windows, because that way your command line will work the same way it works for folks on macOS and Linux.
-
-## Julia packages
-
-Each notebook we'll use in the course will include two files in its directory, one called `Project.toml` and the other called `Manifest.toml`. These files contain information about which package versions should be used to ensure that the notebook runs correctly. Running `using Pkg; Pkg.activate(".")` in the notebook will point the Julia runtime to these correct package versions. This process will download and install packages if they're not already present on your system.
 
 ---
 
@@ -77,8 +73,3 @@ basic idea is to put a `startup.jl` file in `~/.julia/config/`, where
 5. Run `vi startup.jl` to create a `startup.jl` file and open an editor to put content into it.
 6. Type `i` to insert text, and then type `using Statistics, LinearAlgebra`.
 7. Save the file by pressing escape, then `:wq`, and then enter.
-
-
-## Instructions for enrolled students
-
-Several other steps are necessary for those who are enrolled in the course. Please visit the [internal site](https://sites.google.com/view/data1010) for that information.
