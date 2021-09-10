@@ -20,7 +20,7 @@ title: Notebooks and videos
       <td style="text-align: center">09-08</td>
       <td style="text-align: center">Welcome!</td>
       <td style="text-align: center">-</td>
-      <td style="text-align: center"><a href="https://youtu.be/wht91T1lpvc">[youtube]</a></td>
+      <td style="text-align: center"><a href="https://youtu.be/ByT0g37aUjo">[youtube]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/O4RQ-8QBC">[prismia]</a></td>
     </tr>
     <tr>
