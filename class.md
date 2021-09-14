@@ -43,7 +43,7 @@ title: Notebooks and videos
       <td style="text-align: center">3</td>
       <td style="text-align: center">09-15</td>
       <td style="text-align: center">Eigenvectors and eigenvalues</td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/MVT5-SLIA">[prismia]</a></td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>  
