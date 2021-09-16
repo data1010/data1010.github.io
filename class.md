@@ -59,7 +59,7 @@ title: Notebooks and videos
       <td style="text-align: center">5</td>
       <td style="text-align: center">09-20</td>
       <td style="text-align: center">Matrix differentiation</td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/calculus-2/6f13ef6d-3456-4b2e-8c71-8c4a0cc539b5">[prismia]</a></td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
     </tr>
@@ -92,8 +92,8 @@ title: Notebooks and videos
       <td style="text-align: center">09-29</td>
       <td style="text-align: center">Probability Review</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/probability">[prismia]</a></td>
-      <td style="text-align: center"></td>  
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
     </tr>
     <tr>
       <td style="text-align: center">10</td>    
@@ -115,7 +115,7 @@ title: Notebooks and videos
       <td style="text-align: center">12</td>    
       <td style="text-align: center">10-06</td>
       <td style="text-align: center">Simulation techniques and introduction to statistics</td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/48143453-e6d3-46b4-a9c8-7541f25a1d8d">[prismia]</a></td>
       <td style="text-align: center"></td>     
       <td style="text-align: center"></td>      
     </tr>
@@ -123,7 +123,7 @@ title: Notebooks and videos
       <td style="text-align: center">13</td>    
       <td style="text-align: center">10-08</td>
       <td style="text-align: center">Kernel density estimation</td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/138de1c4-b046-4f08-9655-5e7595099d6d">[prismia]</a></td>      
       <td style="text-align: center"></td>   
       <td style="text-align: center"></td>      
     </tr>
@@ -131,7 +131,7 @@ title: Notebooks and videos
       <td style="text-align: center">14</td>    
       <td style="text-align: center">10-13</td>
       <td style="text-align: center">Point estimation and confidence intervals</td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/6fc2c6ce-323b-4bea-9c84-972ea2e62683">[prismia]</a></td>      
       <td style="text-align: center"></td>     
       <td style="text-align: center"></td>      
     </tr>
@@ -139,7 +139,7 @@ title: Notebooks and videos
       <td style="text-align: center">15</td>    
       <td style="text-align: center">10-15</td>
       <td style="text-align: center">Empirical CDF convergence and bootstrapping</td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/5c5b00b5-2b75-4e03-ba8c-aed8896ad2dc">[prismia]</a></td>
       <td style="text-align: center"></td>   
       <td style="text-align: center"></td>      
     </tr>
@@ -147,7 +147,7 @@ title: Notebooks and videos
       <td style="text-align: center">16</td>    
       <td style="text-align: center">10-18</td>
       <td style="text-align: center">Maximum likelihood estimation and hypothesis testing</td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/aff37bb1-85b0-4986-8558-2db917bc1afc">[prismia]</a></td>      
       <td style="text-align: center"></td>   
       <td style="text-align: center"></td>      
     </tr>
