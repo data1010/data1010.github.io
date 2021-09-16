@@ -45,7 +45,7 @@ title: Notebooks and videos
       <td style="text-align: center">Eigenvectors and eigenvalues</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/linear-algebra-2">[prismia]</a></td>      
       <td style="text-align: center"><a href="https://prismia.chat/shared/MVT5-SLIA">[prismia]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/GDK6-1FJP">[prismia]</a></td>
     </tr>  
     <tr>
       <td style="text-align: center">4</td>
