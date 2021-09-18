@@ -53,14 +53,14 @@ title: Notebooks and videos
       <td style="text-align: center">Multivariable Calculus</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/calculus">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/WH6L-IO7Q">[prismia]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/N6SZ-RIVY">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">5</td>
       <td style="text-align: center">09-20</td>
       <td style="text-align: center">Matrix differentiation</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/calculus-2/6f13ef6d-3456-4b2e-8c71-8c4a0cc539b5">[prismia]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/FTSX-1HXC">[prismia]</a></td>
       <td style="text-align: center"></td>
     </tr>
     <tr>
