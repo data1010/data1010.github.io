@@ -61,14 +61,14 @@ title: Notebooks and videos
       <td style="text-align: center">Matrix differentiation</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/calculus-2/6f13ef6d-3456-4b2e-8c71-8c4a0cc539b5">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/FTSX-1HXC">[prismia]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/MJHJ-90N1">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">6</td>    
       <td style="text-align: center">09-22</td>
       <td style="text-align: center">Machine arithmetic, numerical error</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/numerical-computation/d8178e02-222c-46c1-8682-26fa646553c1">[prismia]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/YH9S-7YSW">[prismia]</a></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
