@@ -26,6 +26,7 @@ navbar-links:
   Home: "index"
   Class: "class"
   Project: "project"
+  Homework: "homework"
   Resources:
     - Prismia: "https://prismia.chat"
     - Office Hours: "https://sites.google.com/view/data1010"
