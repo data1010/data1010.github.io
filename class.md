@@ -69,14 +69,14 @@ title: Notebooks and videos
       <td style="text-align: center">Machine arithmetic, numerical error</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/numerical-computation/d8178e02-222c-46c1-8682-26fa646553c1">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/YH9S-7YSW">[prismia]</a></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/OY9J-1SUI">[prismia]</a></td>      
     </tr>
     <tr>
       <td style="text-align: center">7</td>    
       <td style="text-align: center">09-24</td>
       <td style="text-align: center">Pseudorandom numbers and automatic differentiation</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/numerical-computation/9e5983d8-d006-416f-ad24-e3b49a26d971">[prismia]</a></td>      
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/QOAG-RJRS">[prismia]</a></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
