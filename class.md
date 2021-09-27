@@ -92,7 +92,7 @@ title: Notebooks and videos
       <td style="text-align: center">09-29</td>
       <td style="text-align: center">Probability Review</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/probability">[prismia]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/PG8G-OD2H">[prismia]</a></td>
       <td style="text-align: center"></td>
     </tr>
     <tr>
@@ -100,7 +100,7 @@ title: Notebooks and videos
       <td style="text-align: center">10-01</td>
       <td style="text-align: center">Bayes' theorem and conditional expectation</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/probability/200dd8e8-d5c1-40ef-ac9d-5153e3aa43f2">[prismia]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/99OS-OGSW">[prismia]</a></td>
       <td style="text-align: center"></td>
     </tr>
     <tr>
