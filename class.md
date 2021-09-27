@@ -77,14 +77,14 @@ title: Notebooks and videos
       <td style="text-align: center">Pseudorandom numbers and automatic differentiation</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/numerical-computation/9e5983d8-d006-416f-ad24-e3b49a26d971">[prismia]</a></td>      
       <td style="text-align: center"><a href="https://prismia.chat/shared/QOAG-RJRS">[prismia]</a></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/G4XI-270Y">[prismia]</a></td>      
     </tr>
     <tr>
       <td style="text-align: center">8</td>
       <td style="text-align: center">09-27</td>
       <td style="text-align: center">Gradient descent algorithms</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/numerical-computation/3890cc43-ae0c-47da-bfd9-ccce64b0eb27">[prismia]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/DDV3-NNAL">[prismia]</td>
       <td style="text-align: center"></td>
     </tr>
     <tr>
