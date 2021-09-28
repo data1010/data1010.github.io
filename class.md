@@ -84,7 +84,7 @@ title: Notebooks and videos
       <td style="text-align: center">09-27</td>
       <td style="text-align: center">Gradient descent algorithms</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/numerical-computation/3890cc43-ae0c-47da-bfd9-ccce64b0eb27">[prismia]</a></td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/DDV3-NNAL">[prismia]</td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/DDV3-NNAL">[prismia]</a></td>
       <td style="text-align: center"></td>
     </tr>
     <tr>
