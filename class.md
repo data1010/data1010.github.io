@@ -92,7 +92,7 @@ title: Notebooks and videos
       <td style="text-align: center">09-29</td>
       <td style="text-align: center">Probability Review</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/probability">[prismia]</a></td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/PG8G-OD2H">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/ZR1E-06T1">[prismia]</a></td>
       <td style="text-align: center"></td>
     </tr>
     <tr>
