@@ -85,7 +85,7 @@ title: Notebooks and videos
       <td style="text-align: center">Gradient descent algorithms</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/numerical-computation/3890cc43-ae0c-47da-bfd9-ccce64b0eb27">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/DDV3-NNAL">[prismia]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/NOPO-L4UK">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">9</td>
@@ -93,7 +93,7 @@ title: Notebooks and videos
       <td style="text-align: center">Probability Review</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/probability">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/ZR1E-06T1">[prismia]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/PG8G-OD2H">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">10</td>    
@@ -101,14 +101,14 @@ title: Notebooks and videos
       <td style="text-align: center">Bayes' theorem and conditional expectation</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/probability/200dd8e8-d5c1-40ef-ac9d-5153e3aa43f2">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/99OS-OGSW">[prismia]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/VVE1-K04D">[prismia]</a></td></td>
     </tr>
     <tr>
       <td style="text-align: center">11</td>    
       <td style="text-align: center">10-04</td>
       <td style="text-align: center">Common Distributions and the Central Limit Theorem</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/probability/3422156d-9877-45d7-aeee-8a565cf5b167">[prismia]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/69I0-Y2X6">[prismia]</a></td>
       <td style="text-align: center"></td>
     </tr>
     <tr>
@@ -116,7 +116,7 @@ title: Notebooks and videos
       <td style="text-align: center">10-06</td>
       <td style="text-align: center">Simulation techniques and introduction to statistics</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/48143453-e6d3-46b4-a9c8-7541f25a1d8d">[prismia]</a></td>
-      <td style="text-align: center"></td>     
+      <td style="text-align: center"><a href="https://prismia.chat/shared/B27Y-LWJ7">[prismia]</a></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
@@ -124,7 +124,7 @@ title: Notebooks and videos
       <td style="text-align: center">10-08</td>
       <td style="text-align: center">Kernel density estimation</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/138de1c4-b046-4f08-9655-5e7595099d6d">[prismia]</a></td>      
-      <td style="text-align: center"></td>   
+      <td style="text-align: center"><a href="https://prismia.chat/shared/NQMQ-J8LZ">[prismia]</a></td>   
       <td style="text-align: center"></td>      
     </tr>
     <tr>
