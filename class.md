@@ -109,7 +109,7 @@ title: Notebooks and videos
       <td style="text-align: center">Common Distributions and the Central Limit Theorem</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/probability/3422156d-9877-45d7-aeee-8a565cf5b167">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/69I0-Y2X6">[prismia]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/L3F2-J3B4">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">12</td>    
@@ -117,7 +117,7 @@ title: Notebooks and videos
       <td style="text-align: center">Simulation techniques and introduction to statistics</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/48143453-e6d3-46b4-a9c8-7541f25a1d8d">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/B27Y-LWJ7">[prismia]</a></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/31TF-3A0U">[prismia]</a></td>      
     </tr>
     <tr>
       <td style="text-align: center">13</td>    
@@ -125,14 +125,14 @@ title: Notebooks and videos
       <td style="text-align: center">Kernel density estimation</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/138de1c4-b046-4f08-9655-5e7595099d6d">[prismia]</a></td>      
       <td style="text-align: center"><a href="https://prismia.chat/shared/NQMQ-J8LZ">[prismia]</a></td>   
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/S6U1-0EFE">[prismia]</a></td>      
     </tr>
     <tr>
       <td style="text-align: center">14</td>    
       <td style="text-align: center">10-13</td>
       <td style="text-align: center">Point estimation and confidence intervals</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/6fc2c6ce-323b-4bea-9c84-972ea2e62683">[prismia]</a></td>      
-      <td style="text-align: center"></td>     
+      <td style="text-align: center"><a href="https://prismia.chat/shared/3Q3A-RNIK">[prismia]</a></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
@@ -140,7 +140,7 @@ title: Notebooks and videos
       <td style="text-align: center">10-15</td>
       <td style="text-align: center">Empirical CDF convergence and bootstrapping</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/5c5b00b5-2b75-4e03-ba8c-aed8896ad2dc">[prismia]</a></td>
-      <td style="text-align: center"></td>   
+      <td style="text-align: center"><a href="https://prismia.chat/shared/BRRX-DATS">[prismia]</a></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
@@ -155,7 +155,7 @@ title: Notebooks and videos
       <td style="text-align: center">17</td>    
       <td style="text-align: center">10-20</td>
       <td style="text-align: center">Statistical Learning Theory</td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning"></a></td>      
       <td style="text-align: center"></td>   
       <td style="text-align: center"></td>      
     </tr>
@@ -163,7 +163,7 @@ title: Notebooks and videos
       <td style="text-align: center">18</td>    
       <td style="text-align: center">10-22</td>
       <td style="text-align: center">Linear Regression and Quadratic Discriminant Analysis</td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/48eab081-0614-4bbd-85c1-9eb295b37a4f"></a></td>
       <td style="text-align: center"></td>      
       <td style="text-align: center"></td>      
     </tr>
@@ -171,7 +171,7 @@ title: Notebooks and videos
       <td style="text-align: center">19</td>    
       <td style="text-align: center">10-25</td>
       <td style="text-align: center">Likelihood ratio classification</td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/fcfc2e96-a9ae-4bf5-a401-2af84d109e2c"></a></td>      
       <td style="text-align: center"></td>    
       <td style="text-align: center"></td>      
     </tr>
@@ -179,7 +179,7 @@ title: Notebooks and videos
       <td style="text-align: center">20</td>    
       <td style="text-align: center">10-27</td>
       <td style="text-align: center">Generative models (QDA, LDA, Naive Bayes)</td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/a55c0890-f271-4549-97da-747f8208eda6"></a></td>      
       <td style="text-align: center"></td>   
       <td style="text-align: center"></td>      
     </tr>
@@ -187,7 +187,7 @@ title: Notebooks and videos
       <td style="text-align: center">21</td>    
       <td style="text-align: center">10-29</td>
       <td style="text-align: center">Logistic Regression</td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/ac286cc9-eddc-4856-ab70-fb2c487815f7"></a></td>      
       <td style="text-align: center"></td>  
       <td style="text-align: center"></td>      
     </tr>
@@ -195,7 +195,7 @@ title: Notebooks and videos
       <td style="text-align: center">22</td>    
       <td style="text-align: center">11-01</td>
       <td style="text-align: center">Support Vector Machines</td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/788b6829-b780-48e1-aa6c-034af09c797c"></a></td>      
       <td style="text-align: center"></td>   
       <td style="text-align: center"></td>      
     </tr>
@@ -203,7 +203,7 @@ title: Notebooks and videos
       <td style="text-align: center">23</td>    
       <td style="text-align: center">11-03</td>
       <td style="text-align: center">Support Vector Machines (II)</td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/e8913e4b-5b74-439e-aa08-be671d3efdc2"></a></td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
@@ -211,7 +211,7 @@ title: Notebooks and videos
       <td style="text-align: center">24</td>    
       <td style="text-align: center">11-05</td>
       <td style="text-align: center">Decision Trees</td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/601deda0-21f1-4b26-b60f-146f02349b50"></a></td>      
       <td style="text-align: center"></td>            
       <td style="text-align: center"></td>      
     </tr>
@@ -219,7 +219,7 @@ title: Notebooks and videos
       <td style="text-align: center">25</td>    
       <td style="text-align: center">11-08</td>
       <td style="text-align: center">Ensemble Methods</td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/bc1457f8-07a8-4a08-8157-7a4a26d16d24"></a></td>      
       <td style="text-align: center"></td>      
       <td style="text-align: center"></td>      
     </tr>
@@ -227,7 +227,7 @@ title: Notebooks and videos
       <td style="text-align: center">26</td>    
       <td style="text-align: center">11-10</td>
       <td style="text-align: center">Neural Networks</td>
-      <td style="text-align: center"></td>    
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/4b24926b-286a-480e-b855-d0fc26e69ffa"></a></td>    
       <td style="text-align: center"></td>      
       <td style="text-align: center"></td>      
     </tr>
@@ -235,7 +235,7 @@ title: Notebooks and videos
       <td style="text-align: center">27</td>
       <td style="text-align: center">11-12</td>
       <td style="text-align: center">Neural Networks (II)</td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/2e9cd375-0d7d-4b5e-bdf8-a3f920eb8bbc"></a></td>
       <td style="text-align: center"></td>            
       <td style="text-align: center"></td>      
     </tr>
@@ -243,7 +243,7 @@ title: Notebooks and videos
       <td style="text-align: center">28</td>
       <td style="text-align: center">11-15</td>
       <td style="text-align: center">Dimension Reduction</td>
-      <td style="text-align: center"></td> 
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/2d66d42b-4768-4098-8dce-345535be4b88"></a></td> 
       <td style="text-align: center"></td>            
       <td style="text-align: center"></td>      
     </tr>
