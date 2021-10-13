@@ -133,7 +133,7 @@ title: Notebooks and videos
       <td style="text-align: center">Point estimation and confidence intervals</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/6fc2c6ce-323b-4bea-9c84-972ea2e62683">[prismia]</a></td>      
       <td style="text-align: center"><a href="https://prismia.chat/shared/3Q3A-RNIK">[prismia]</a></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/MNHY-4JCR">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">15</td>    
