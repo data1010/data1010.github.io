@@ -141,14 +141,14 @@ title: Notebooks and videos
       <td style="text-align: center">Empirical CDF convergence and bootstrapping</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/5c5b00b5-2b75-4e03-ba8c-aed8896ad2dc">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/BRRX-DATS">[prismia]</a></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/MA5J-VJM7"></a></td>
     </tr>
     <tr>
       <td style="text-align: center">16</td>    
       <td style="text-align: center">10-18</td>
       <td style="text-align: center">Maximum likelihood estimation and hypothesis testing</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/aff37bb1-85b0-4986-8558-2db917bc1afc">[prismia]</a></td>      
-      <td style="text-align: center"></td>   
+      <td style="text-align: center"><a href="https://prismia.chat/shared/UHGG-BBCZ">[prismia]</a></td>   
       <td style="text-align: center"></td>      
     </tr>
     <tr>
@@ -156,7 +156,7 @@ title: Notebooks and videos
       <td style="text-align: center">10-20</td>
       <td style="text-align: center">Statistical Learning Theory</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning">[prismia]</a></td>      
-      <td style="text-align: center"></td>   
+      <td style="text-align: center"><a href="https://prismia.chat/shared/ZLUQ-XN5C">[prismia]</a></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
