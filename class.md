@@ -141,7 +141,7 @@ title: Notebooks and videos
       <td style="text-align: center">Empirical CDF convergence and bootstrapping</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/5c5b00b5-2b75-4e03-ba8c-aed8896ad2dc">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/BRRX-DATS">[prismia]</a></td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/MA5J-VJM7"></a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/MA5J-VJM7">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">16</td>    
