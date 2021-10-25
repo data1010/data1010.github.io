@@ -164,7 +164,7 @@ title: Notebooks and videos
       <td style="text-align: center">10-22</td>
       <td style="text-align: center">Linear Regression and Quadratic Discriminant Analysis</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/48eab081-0614-4bbd-85c1-9eb295b37a4f">[prismia]</a></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/NHRC-CU4D">[prismia]</a></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
