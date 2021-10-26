@@ -149,7 +149,7 @@ title: Notebooks and videos
       <td style="text-align: center">Maximum likelihood estimation and hypothesis testing</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/aff37bb1-85b0-4986-8558-2db917bc1afc">[prismia]</a></td>      
       <td style="text-align: center"><a href="https://prismia.chat/shared/UHGG-BBCZ">[prismia]</a></td>   
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/9VWE-QUI4">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">17</td>    
@@ -157,7 +157,7 @@ title: Notebooks and videos
       <td style="text-align: center">Statistical Learning Theory</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning">[prismia]</a></td>      
       <td style="text-align: center"><a href="https://prismia.chat/shared/ZLUQ-XN5C">[prismia]</a></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/GJRX-B642">[prismia]</a></td></td>      
     </tr>
     <tr>
       <td style="text-align: center">18</td>    
@@ -165,22 +165,22 @@ title: Notebooks and videos
       <td style="text-align: center">Linear Regression and Quadratic Discriminant Analysis</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/48eab081-0614-4bbd-85c1-9eb295b37a4f">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/NHRC-CU4D">[prismia]</a></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/U4ZV-E59O">[prismia]</a></td></td>      
     </tr>
     <tr>
       <td style="text-align: center">19</td>    
       <td style="text-align: center">10-25</td>
       <td style="text-align: center">Likelihood ratio classification</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/fcfc2e96-a9ae-4bf5-a401-2af84d109e2c">[prismia]</a></td>      
-      <td style="text-align: center"></td>    
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/G4ES-6SQP">[prismia]</a></td>    
+      <td style="text-align: center"><a href="https://prismia.chat/shared/JSOK-8EI9">[prismia]</a></td></td>
     </tr>
     <tr>
       <td style="text-align: center">20</td>    
       <td style="text-align: center">10-27</td>
       <td style="text-align: center">Generative models (QDA, LDA, Naive Bayes)</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/a55c0890-f271-4549-97da-747f8208eda6">[prismia]</a></td>      
-      <td style="text-align: center"></td>   
+      <td style="text-align: center"><a href="https://prismia.chat/shared/EV37-H7GJ">[prismia]</a></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
@@ -188,7 +188,7 @@ title: Notebooks and videos
       <td style="text-align: center">10-29</td>
       <td style="text-align: center">Logistic Regression</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/ac286cc9-eddc-4856-ab70-fb2c487815f7">[prismia]</a></td>      
-      <td style="text-align: center"></td>  
+      <td style="text-align: center"><a href="https://prismia.chat/shared/LMR9-4PMQ">[prismia]</a></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
