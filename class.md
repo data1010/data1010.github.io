@@ -101,7 +101,7 @@ title: Notebooks and videos
       <td style="text-align: center">Bayes' theorem and conditional expectation</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/probability/200dd8e8-d5c1-40ef-ac9d-5153e3aa43f2">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/99OS-OGSW">[prismia]</a></td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/VVE1-K04D">[prismia]</a></td></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/VVE1-K04D">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">11</td>    
@@ -157,7 +157,7 @@ title: Notebooks and videos
       <td style="text-align: center">Statistical Learning Theory</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning">[prismia]</a></td>      
       <td style="text-align: center"><a href="https://prismia.chat/shared/ZLUQ-XN5C">[prismia]</a></td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/GJRX-B642">[prismia]</a></td></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/GJRX-B642">[prismia]</a></td>     
     </tr>
     <tr>
       <td style="text-align: center">18</td>    
@@ -165,7 +165,7 @@ title: Notebooks and videos
       <td style="text-align: center">Linear Regression and Quadratic Discriminant Analysis</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/48eab081-0614-4bbd-85c1-9eb295b37a4f">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/NHRC-CU4D">[prismia]</a></td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/U4ZV-E59O">[prismia]</a></td></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/U4ZV-E59O">[prismia]</a></td>   
     </tr>
     <tr>
       <td style="text-align: center">19</td>    
@@ -173,7 +173,7 @@ title: Notebooks and videos
       <td style="text-align: center">Likelihood ratio classification</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/fcfc2e96-a9ae-4bf5-a401-2af84d109e2c">[prismia]</a></td>      
       <td style="text-align: center"><a href="https://prismia.chat/shared/G4ES-6SQP">[prismia]</a></td>    
-      <td style="text-align: center"><a href="https://prismia.chat/shared/JSOK-8EI9">[prismia]</a></td></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/JSOK-8EI9">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">20</td>    
