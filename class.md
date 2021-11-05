@@ -213,7 +213,7 @@ title: Notebooks and videos
       <td style="text-align: center">Decision Trees</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/601deda0-21f1-4b26-b60f-146f02349b50">[prismia]</a></td>      
       <td style="text-align: center"><a href="https://prismia.chat/shared/3PPS-5EZ8">[prismia]</a></td>            
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/6GMT-USYM">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">25</td>    
