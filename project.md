@@ -32,6 +32,10 @@ Your article will be an explainer for one topic which is adjacent to DATA 1010 t
 
 These topics are just ideas; you're welcome (and encouraged) to choose your own topic. You can look at the free book [Mathematics for Machine Learning](https://mml-book.github.io) for lots more ideas. Feel free to ask on the message board to get feedback about any particular ideas you might be considering. We will also add to the list above as the term progresses.
 
+### Language
+
+It's very likely that you'll want to include some code to help the reader understand the details of your topic. You are not required to use Julia. However, you should use Julia or Python or R unless you have a really compelling reason to use something else. Note that you could also use multiple languages if you had occasion to do so, since you can start any Prismia cell with `#lang python` or `#lang julia` to specify the language for a particular cell.
+
 ### Format
 
 To keep everything as simple and familiar as possible, we're going to manage the submissions as Prismia assignments. Go to your assignments page and find the Project assignment. Craft your blog post as a sequence of Prismia messages. Once the assignments are submitted, we will automatically create Prismia shared lessons from your submissions and also create a publicly viewable page listing all of the projects.
