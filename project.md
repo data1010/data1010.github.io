@@ -6,11 +6,11 @@ title: Project
 ## Project
 
 
-This course includes one project, which will be due on TBD. You will create your project as a blog post and submit it via URL.
+This course includes one project, which will be due on December 3 at 18:00. You will create your project in the style of an article as a Prismia assignment, and we will publish everyone's articles on a public "DATA 1010 projects" page.
 
 ### Content
 
-Your blog post will be an explainer for one idea which is adjacent to DATA 1010 topic sequence. Here are some ideas:
+Your article will be an explainer for one topic which is adjacent to DATA 1010 topic sequence. Here are some ideas:
 
 * Applications of SVD
   - Image processing
@@ -32,9 +32,11 @@ Your blog post will be an explainer for one idea which is adjacent to DATA 1010 
 
 These topics are just ideas; you're welcome (and encouraged) to choose your own topic. You can look at the free book [Mathematics for Machine Learning](https://mml-book.github.io) for lots more ideas. Feel free to ask on the message board to get feedback about any particular ideas you might be considering. We will also add to the list above as the term progresses.
 
-### Blogging
+### Format
 
-We're going to manage the submissions as Prismia assignments. Go to your assignments page and find the Project assignment. Craft your blog post as a sequence of Prismia messages. Once the assignments are submitted, we will automatically create Prismia shared lessons from your submissions and also create a publicly viewable page listing all of the projects.
+To keep everything as simple and familiar as possible, we're going to manage the submissions as Prismia assignments. Go to your assignments page and find the Project assignment. Craft your blog post as a sequence of Prismia messages. Once the assignments are submitted, we will automatically create Prismia shared lessons from your submissions and also create a publicly viewable page listing all of the projects.
+
+*Note: We will add functionality to the Assignments page will allow you to preview your article exactly as it will appear once it's published.*
 
 ### Expectations
 
@@ -42,10 +44,12 @@ The main objectives to keep in mind as you write your article are readability, i
 
 All of these are loose suggestions. The main goal is to *tell a great story*. The only specifically required element is *some* presentation of a nontrivial mathematical idea, even if it isn't the main overall focus. It's also very likely that you're going to need to include some visuals to create a compelling reading experience.
 
-A good example to look at for style and length is [this article](https://towardsdatascience.com/building-a-music-recommendation-engine-with-probabilistic-matrix-factorization-in-pytorch-7d2934067d4a). It's very much on the longer end of the spectrum at around 3600 words; I recommend targeting a length in the range 50% to 100% as long as this one (shorter than 1500 words would be too short). The other thing this article does which is not necessary is a code walkthrough; whether you want to do that is up to you.
+A good example to look at for style and length is [this article](https://towardsdatascience.com/building-a-music-recommendation-engine-with-probabilistic-matrix-factorization-in-pytorch-7d2934067d4a). It's very much on the longer end of the spectrum at around 3600 words; I recommend targeting a length in the range 50% to 100% as long as this one (shorter than 1500 words would be too short). The other thing this article does which is not necessary is a code walkthrough; whether you want to do that is up to you. 
+
+To see another example which is actually in Prismia, check out [ML with Mathlets](https://prismia.chat/shared/ml-with-mathlets).
 
 ### Reviews
 
 After the blog posts are submitted, each person will be responsible for reading two other students' blog posts and providing feedback on what they found clear, interesting, helpful, etc. The mapping between readers and blog posts will be chosen uniformly at random.
 
-The review deadline will be two weeks after the blog post submission deadline. You should not expect the review to represent a very large time investment; the goal is to provide an incentive to do a good enough job with the blog post that it will be helpful to at least the two readers from the class (plus the peer feedback).
+The review deadline will be two weeks after the blog post submission deadline. You should not expect the review to represent a very large time investment; the goal is to provide an incentive to do a good enough job with the blog post that it will be helpful to at least the two readers from the class.
