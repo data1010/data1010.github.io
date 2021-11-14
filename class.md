@@ -228,7 +228,7 @@ title: Notebooks and videos
       <td style="text-align: center">11-10</td>
       <td style="text-align: center">Neural Networks</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/4b24926b-286a-480e-b855-d0fc26e69ffa">[prismia]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/Q6XA-W6LF">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/2X0M-96GQ">[prismia]</a></td>
     </tr>
     <tr>
@@ -236,7 +236,7 @@ title: Notebooks and videos
       <td style="text-align: center">11-12</td>
       <td style="text-align: center">Neural Networks (II)</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/2e9cd375-0d7d-4b5e-bdf8-a3f920eb8bbc">[prismia]</a></td>
-      <td style="text-align: center"></td>            
+      <td style="text-align: center"><a href="https://prismia.chat/shared/JLFL-G1FB">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/M61D-X2HU">[prismia]</a></td>
     </tr>
     <tr>
