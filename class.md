@@ -221,7 +221,7 @@ title: Notebooks and videos
       <td style="text-align: center">Ensemble Methods</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/bc1457f8-07a8-4a08-8157-7a4a26d16d24">[prismia]</a></td>      
       <td style="text-align: center"><a href="https://prismia.chat/shared/SJ9S-WBIZ">[prismia]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/2A3P-JRI7">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">26</td>    
@@ -229,7 +229,7 @@ title: Notebooks and videos
       <td style="text-align: center">Neural Networks</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/4b24926b-286a-480e-b855-d0fc26e69ffa">[prismia]</a></td>
       <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/2X0M-96GQ">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">27</td>
@@ -237,14 +237,14 @@ title: Notebooks and videos
       <td style="text-align: center">Neural Networks (II)</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/2e9cd375-0d7d-4b5e-bdf8-a3f920eb8bbc">[prismia]</a></td>
       <td style="text-align: center"></td>            
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/M61D-X2HU">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">28</td>
       <td style="text-align: center">11-15</td>
       <td style="text-align: center">Dimension Reduction</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/2d66d42b-4768-4098-8dce-345535be4b88">[prismia]</a></td>
-      <td style="text-align: center"></td>            
+      <td style="text-align: center"><a href="https://prismia.chat/shared/LBEU-XOIS">[prismia]</a></td>            
       <td style="text-align: center"></td>      
     </tr>
     <tr>
@@ -252,7 +252,7 @@ title: Notebooks and videos
       <td style="text-align: center">11-17</td>
       <td style="text-align: center">Bayesian Statistics and Markov Chains</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/bayesian">[prismia]</a></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/BBUT-FTJO">[prismia]</a></td>      
       <td style="text-align: center"></td>      
     </tr>
     <tr>
@@ -260,7 +260,7 @@ title: Notebooks and videos
       <td style="text-align: center">11-19</td>
       <td style="text-align: center">Markov Chain Monte Carlo</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/bayesian/34a72036-5ec6-46fe-a281-30e43ee0081f">[prismia]</a></td>
-      <td style="text-align: center"></td>            
+      <td style="text-align: center"><a href="https://prismia.chat/shared/GJMP-R37K">[prismia]</a></td>            
       <td style="text-align: center"></td>      
     </tr>
     <tr>
@@ -268,7 +268,7 @@ title: Notebooks and videos
       <td style="text-align: center">11-22</td>
       <td style="text-align: center">Bayes nets and Expectation-Maximization</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/bayesian/731871a7-ff71-46f8-908d-026be9e1728a">[prismia]</a></td>
-      <td style="text-align: center"></td>            
+      <td style="text-align: center"><a href="https://prismia.chat/shared/DNO3-9V7L">[prismia]</a></td>
       <td style="text-align: center"></td>      
     </tr>    
     <tr>
