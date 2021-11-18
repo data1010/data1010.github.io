@@ -245,15 +245,15 @@ title: Notebooks and videos
       <td style="text-align: center">Dimension Reduction</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/2d66d42b-4768-4098-8dce-345535be4b88">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/LBEU-XOIS">[prismia]</a></td>            
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/2YEQ-4GAY">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">29</td>
       <td style="text-align: center">11-17</td>
       <td style="text-align: center">Bayesian Statistics and Markov Chains</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/bayesian">[prismia]</a></td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/BBUT-FTJO">[prismia]</a></td>      
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/BBUT-FTJO">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/6LJN-ELYM">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">30</td>
