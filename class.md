@@ -9,7 +9,7 @@ title: Notebooks and videos
       <th style="text-align: center; width:80px"></th>
       <th style="text-align: center; width:100px">Date</th>
       <th style="text-align: center">Topic</th>
-      <th style="text-align: center">Reading</th>            
+      <th style="text-align: center">Reading</th>
       <th style="text-align: center">Pre-class video</th>
       <th style="text-align: center">Script</th>
     </tr>
@@ -27,15 +27,15 @@ title: Notebooks and videos
       <td style="text-align: center">1</td>
       <td style="text-align: center">09-10</td>
       <td style="text-align: center">Programming in Julia</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/python-to-julia">[prismia]</a></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/python-to-julia">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/X3ZS-ICYN">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/TVDV-50OX">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">2</td>    
+      <td style="text-align: center">2</td>
       <td style="text-align: center">09-13</td>
       <td style="text-align: center">Linear Algebra Practice</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/linear-algebra">[prismia]</a></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/linear-algebra">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/F33Y-JGS3">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/PPE5-UIEY">[prismia]</a></td>
     </tr>
@@ -43,10 +43,10 @@ title: Notebooks and videos
       <td style="text-align: center">3</td>
       <td style="text-align: center">09-15</td>
       <td style="text-align: center">Eigenvectors and eigenvalues</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/linear-algebra-2">[prismia]</a></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/linear-algebra-2">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/MVT5-SLIA">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/GDK6-1FJP">[prismia]</a></td>
-    </tr>  
+    </tr>
     <tr>
       <td style="text-align: center">4</td>
       <td style="text-align: center">09-17</td>
@@ -64,20 +64,20 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://prismia.chat/shared/MJHJ-90N1">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">6</td>    
+      <td style="text-align: center">6</td>
       <td style="text-align: center">09-22</td>
       <td style="text-align: center">Machine arithmetic, numerical error</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/numerical-computation/d8178e02-222c-46c1-8682-26fa646553c1">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/YH9S-7YSW">[prismia]</a></td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/OY9J-1SUI">[prismia]</a></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/OY9J-1SUI">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">7</td>    
+      <td style="text-align: center">7</td>
       <td style="text-align: center">09-24</td>
       <td style="text-align: center">Pseudorandom numbers and automatic differentiation</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/numerical-computation/9e5983d8-d006-416f-ad24-e3b49a26d971">[prismia]</a></td>      
       <td style="text-align: center"><a href="https://prismia.chat/shared/QOAG-RJRS">[prismia]</a></td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/G4XI-270Y">[prismia]</a></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/G4XI-270Y">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">8</td>
@@ -96,7 +96,7 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://prismia.chat/shared/PG8G-OD2H">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">10</td>    
+      <td style="text-align: center">10</td>
       <td style="text-align: center">10-01</td>
       <td style="text-align: center">Bayes' theorem and conditional expectation</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/probability/200dd8e8-d5c1-40ef-ac9d-5153e3aa43f2">[prismia]</a></td>
@@ -104,7 +104,7 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://prismia.chat/shared/VVE1-K04D">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">11</td>    
+      <td style="text-align: center">11</td>
       <td style="text-align: center">10-04</td>
       <td style="text-align: center">Common Distributions and the Central Limit Theorem</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/probability/3422156d-9877-45d7-aeee-8a565cf5b167">[prismia]</a></td>
@@ -112,31 +112,31 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://prismia.chat/shared/L3F2-J3B4">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">12</td>    
+      <td style="text-align: center">12</td>
       <td style="text-align: center">10-06</td>
       <td style="text-align: center">Simulation techniques and introduction to statistics</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/48143453-e6d3-46b4-a9c8-7541f25a1d8d">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/B27Y-LWJ7">[prismia]</a></td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/31TF-3A0U">[prismia]</a></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/31TF-3A0U">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">13</td>    
+      <td style="text-align: center">13</td>
       <td style="text-align: center">10-08</td>
       <td style="text-align: center">Kernel density estimation</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/138de1c4-b046-4f08-9655-5e7595099d6d">[prismia]</a></td>      
-      <td style="text-align: center"><a href="https://prismia.chat/shared/NQMQ-J8LZ">[prismia]</a></td>   
-      <td style="text-align: center"><a href="https://prismia.chat/shared/S6U1-0EFE">[prismia]</a></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/138de1c4-b046-4f08-9655-5e7595099d6d">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/NQMQ-J8LZ">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/S6U1-0EFE">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">14</td>    
+      <td style="text-align: center">14</td>
       <td style="text-align: center">10-13</td>
       <td style="text-align: center">Point estimation and confidence intervals</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/6fc2c6ce-323b-4bea-9c84-972ea2e62683">[prismia]</a></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/6fc2c6ce-323b-4bea-9c84-972ea2e62683">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/3Q3A-RNIK">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/MNHY-4JCR">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">15</td>    
+      <td style="text-align: center">15</td>
       <td style="text-align: center">10-15</td>
       <td style="text-align: center">Empirical CDF convergence and bootstrapping</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/5c5b00b5-2b75-4e03-ba8c-aed8896ad2dc">[prismia]</a></td>
@@ -144,55 +144,55 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://prismia.chat/shared/MA5J-VJM7">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">16</td>    
+      <td style="text-align: center">16</td>
       <td style="text-align: center">10-18</td>
       <td style="text-align: center">Maximum likelihood estimation and hypothesis testing</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/aff37bb1-85b0-4986-8558-2db917bc1afc">[prismia]</a></td>      
-      <td style="text-align: center"><a href="https://prismia.chat/shared/UHGG-BBCZ">[prismia]</a></td>   
+      <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/aff37bb1-85b0-4986-8558-2db917bc1afc">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/UHGG-BBCZ">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/9VWE-QUI4">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">17</td>    
+      <td style="text-align: center">17</td>
       <td style="text-align: center">10-20</td>
       <td style="text-align: center">Statistical Learning Theory</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning">[prismia]</a></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/ZLUQ-XN5C">[prismia]</a></td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/GJRX-B642">[prismia]</a></td>     
+      <td style="text-align: center"><a href="https://prismia.chat/shared/GJRX-B642">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">18</td>    
+      <td style="text-align: center">18</td>
       <td style="text-align: center">10-22</td>
       <td style="text-align: center">Linear Regression and Quadratic Discriminant Analysis</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/48eab081-0614-4bbd-85c1-9eb295b37a4f">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/NHRC-CU4D">[prismia]</a></td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/U4ZV-E59O">[prismia]</a></td>   
+      <td style="text-align: center"><a href="https://prismia.chat/shared/U4ZV-E59O">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">19</td>    
+      <td style="text-align: center">19</td>
       <td style="text-align: center">10-25</td>
       <td style="text-align: center">Likelihood ratio classification</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/fcfc2e96-a9ae-4bf5-a401-2af84d109e2c">[prismia]</a></td>      
-      <td style="text-align: center"><a href="https://prismia.chat/shared/G4ES-6SQP">[prismia]</a></td>    
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/fcfc2e96-a9ae-4bf5-a401-2af84d109e2c">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/G4ES-6SQP">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/JSOK-8EI9">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">20</td>    
+      <td style="text-align: center">20</td>
       <td style="text-align: center">10-27</td>
       <td style="text-align: center">Generative models (QDA, LDA, Naive Bayes)</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/a55c0890-f271-4549-97da-747f8208eda6">[prismia]</a></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/a55c0890-f271-4549-97da-747f8208eda6">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/EV37-H7GJ">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/X9SF-QPJ4">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">21</td>    
+      <td style="text-align: center">21</td>
       <td style="text-align: center">10-29</td>
       <td style="text-align: center">Logistic Regression</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/ac286cc9-eddc-4856-ab70-fb2c487815f7">[prismia]</a></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/ac286cc9-eddc-4856-ab70-fb2c487815f7">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/LMR9-4PMQ">[prismia]</a></td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/3KE1-0U6H">[prismia]</a></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/3KE1-0U6H">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">22</td>    
+      <td style="text-align: center">22</td>
       <td style="text-align: center">11-01</td>
       <td style="text-align: center">Support Vector Machines</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/788b6829-b780-48e1-aa6c-034af09c797c">[prismia]</a></td>
@@ -208,23 +208,23 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://prismia.chat/shared/QRU7-AX6F">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">24</td>    
+      <td style="text-align: center">24</td>
       <td style="text-align: center">11-05</td>
       <td style="text-align: center">Decision Trees</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/601deda0-21f1-4b26-b60f-146f02349b50">[prismia]</a></td>      
-      <td style="text-align: center"><a href="https://prismia.chat/shared/3PPS-5EZ8">[prismia]</a></td>            
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/601deda0-21f1-4b26-b60f-146f02349b50">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/3PPS-5EZ8">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/6GMT-USYM">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">25</td>    
+      <td style="text-align: center">25</td>
       <td style="text-align: center">11-08</td>
       <td style="text-align: center">Ensemble Methods</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/bc1457f8-07a8-4a08-8157-7a4a26d16d24">[prismia]</a></td>      
+      <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/bc1457f8-07a8-4a08-8157-7a4a26d16d24">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/SJ9S-WBIZ">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/2A3P-JRI7">[prismia]</a></td>
     </tr>
     <tr>
-      <td style="text-align: center">26</td>    
+      <td style="text-align: center">26</td>
       <td style="text-align: center">11-10</td>
       <td style="text-align: center">Neural Networks</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/4b24926b-286a-480e-b855-d0fc26e69ffa">[prismia]</a></td>
@@ -244,7 +244,7 @@ title: Notebooks and videos
       <td style="text-align: center">11-15</td>
       <td style="text-align: center">Dimension Reduction</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/machine-learning/2d66d42b-4768-4098-8dce-345535be4b88">[prismia]</a></td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/LBEU-XOIS">[prismia]</a></td>            
+      <td style="text-align: center"><a href="https://prismia.chat/shared/LBEU-XOIS">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/2YEQ-4GAY">[prismia]</a></td>
     </tr>
     <tr>
@@ -260,56 +260,64 @@ title: Notebooks and videos
       <td style="text-align: center">11-19</td>
       <td style="text-align: center">Markov Chain Monte Carlo</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/bayesian/34a72036-5ec6-46fe-a281-30e43ee0081f">[prismia]</a></td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/GJMP-R37K">[prismia]</a></td>            
+      <td style="text-align: center"><a href="https://prismia.chat/shared/GJMP-R37K">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/144F-2J98">[prismia]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"></td>
+      <td style="text-align: center">11-22</td>
+      <td style="text-align: center">Exam Review</td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
       <td style="text-align: center">31</td>
-      <td style="text-align: center">11-22</td>
-      <td style="text-align: center">Bayes nets and Expectation-Maximization</td>
+      <td style="text-align: center">11-24</td>
+      <td style="text-align: center">Bayesian Statistics Review</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/bayesian/731871a7-ff71-46f8-908d-026be9e1728a">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/DNO3-9V7L">[prismia]</a></td>
-      <td style="text-align: center"></td>      
-    </tr>    
+      <td style="text-align: center"><a href="https://prismia.chat/shared/GBJ5-ZTHE">[prismia]</a></td>
+    </tr>
     <tr>
       <td style="text-align: center"></td>
       <td style="text-align: center">11-29</td>
-      <td style="text-align: center">Review Day</td>
-      <td style="text-align: center"></td>      
-      <td style="text-align: center"></td>  
-      <td style="text-align: center"></td>      
-    </tr>    
+      <td style="text-align: center">Causal Inference</td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/9e7cd8f2-3042-408c-833c-c61846aa8461">[prismia]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/6EZ8-DN44">[prismia]</a></td>
+      <td style="text-align: center"></td>
+    </tr>
     <tr>
       <td style="text-align: center">32</td>
       <td style="text-align: center">12-01</td>
-      <td style="text-align: center">Expectation-Maximization and Hidden Markov Models</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/bayesian/53acf88b-63a6-4a48-9a4c-c7f33f97301b">[prismia]</a></td>
-      <td style="text-align: center"></td>            
-      <td style="text-align: center"></td>      
-    </tr>     
+      <td style="text-align: center">Elements of Mathematical Exposition</td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>
     <tr>
       <td style="text-align: center">33</td>
       <td style="text-align: center">12-03</td>
-      <td style="text-align: center">Probabilistic Programming</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/bayesian/2bddb92e-e603-4c78-b231-4e08ff9e699e">[prismia]</a></td>
-      <td style="text-align: center"></td>   
-      <td style="text-align: center"></td>      
-    </tr>        
+      <td style="text-align: center">Review Day</td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+    </tr>
     <tr>
       <td style="text-align: center">34</td>
       <td style="text-align: center">12-06</td>
-      <td style="text-align: center">Causal Inference</td>
-      <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/9e7cd8f2-3042-408c-833c-c61846aa8461">[prismia]</a></td>
+      <td style="text-align: center">Review Day</td>
       <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
     </tr>
     <tr>
       <td style="text-align: center"></td>
       <td style="text-align: center">12-08</td>
-      <td style="text-align: center">Final Review</td>
-      <td style="text-align: center"></td>            
+      <td style="text-align: center">Review Day</td>
       <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
     </tr>
   </tbody>
 </table>
