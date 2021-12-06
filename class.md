@@ -285,7 +285,7 @@ title: Notebooks and videos
       <td style="text-align: center">Causal Inference</td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/statistics/9e7cd8f2-3042-408c-833c-c61846aa8461">[prismia]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/6EZ8-DN44">[prismia]</a></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/TFJ9-OPIF"></a></td>
     </tr>
     <tr>
       <td style="text-align: center">32</td>
