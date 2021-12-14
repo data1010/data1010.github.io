@@ -6,7 +6,7 @@ title: Project
 ## Project
 
 
-This course includes one project, which will be due on December 3 at 18:00. You will create your project in the style of an article as a Prismia assignment, and we will publish everyone's articles on a public "DATA 1010 projects" page.
+This course includes one project, which will be due on December 3 at 18:00. You will create your project in the style of an article as a Prismia assignment, and we will publish everyone's articles on a public "DATA 1010 projects" page. Update: this gallery is now available, at [https://prismia.chat/data1010-projects](https://prismia.chat/data1010-projects).
 
 ### Content
 
